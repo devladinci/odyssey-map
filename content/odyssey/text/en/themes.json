@@ -1,0 +1,400 @@
+{
+ "routes": {
+  "name": "Journeys in the poem",
+  "sub": "Odysseus, Telemachus, the kings and the gods",
+  "intro": "Every journey that the poem tells. Each line stays hidden until you reach the book that tells it. The lines are schematic: Homer names the stops and counts the days, but does not give the course between them. The wanderings of Odysseus join places that later tradition chose."
+ },
+ "where": {
+  "name": "Where did he sail?",
+  "sub": "A tour: 2,700 years of looking for the wanderings",
+  "intro": "Homer does not say where the Cyclops lived or where the Sirens sang. People have been putting these places on the map ever since, and they have never agreed. This tour follows the search, from the first Greek settlers in the west to modern sailors. The stops open as you read Books 9 to 12.",
+  "items": {
+   "where_1": {
+    "name": "Off the map at Malea",
+    "text": "As far as Cape Malea every place on the way of Odysseus can be found. There a storm takes him, and for nine days he is driven before the wind. After that Homer names no land that a sailor of his time could point to. The poem itself draws the line between the known world and the other one."
+   },
+   "where_2": {
+    "name": "Hesiod: Circe in the west",
+    "text": "The first sign of a map is at the end of Hesiod’s Theogony, perhaps not much later than the Odyssey. There Circe bears Odysseus two sons, Agrius and Latinus, who rule over the Tyrrhenians, “far away among the holy islands”. Someone had already carried the story to Italy.",
+    "src": "Hesiod, Theogony 1011–1016"
+   },
+   "where_3": {
+    "name": "The Euboeans carry the story west",
+    "text": "In the eighth century BC Greeks from Euboea settled on Ischia and at Cumae and sailed through the strait to Sicily. They found mountains of fire, whirlpools and strange peoples, and they knew the songs about Odysseus. Step by step the adventures were pinned to the new coasts. A cup found on Ischia, with a verse about the cup of Nestor, shows that the epics travelled with them.",
+    "src": "The “cup of Nestor”, Pithekoussai, about 720 BC"
+   },
+   "where_4": {
+    "name": "Thucydides: Sicily and Corcyra",
+    "text": "By the fifth century BC the map was common knowledge. Thucydides writes that the oldest inhabitants of Sicily are said to have been Cyclopes and Laestrygonians, and adds that he cannot say who they were. He calls the strait by Sicily the Charybdis through which Odysseus is said to have sailed, and he knows that the people of Corcyra claimed the Phaeacians.",
+    "src": "Thucydides 6.2, 4.24, 1.25"
+   },
+   "where_5": {
+    "name": "Eratosthenes: find the cobbler first",
+    "text": "Eratosthenes, head of the Library of Alexandria in the third century BC, would have none of it. You will find where Odysseus wandered, he said, when you find the cobbler who sewed up the bag of the winds. In his view Homer set the wanderings in the outer Ocean, where no one could check them.",
+    "src": "Eratosthenes, quoted by Strabo 1.2.15"
+   },
+   "where_6": {
+    "name": "Polybius and Strabo: truth under the story",
+    "text": "Polybius and Strabo answered him. They held that Homer started from real places and real sailors’ reports and added the marvels. Polybius even read Scylla snatching her prey as a picture of the men who hunt swordfish at the rock of Scyllaeum. Strabo spends much of the first book of his Geography defending Homer as the first geographer.",
+    "src": "Strabo, Geography 1.2"
+   },
+   "where_7": {
+    "name": "Rome adopts the wanderings",
+    "text": "The Romans made the tale their own. At Circeii they showed a cup of Odysseus and the grave of Elpenor. Formiae was the town of the Laestrygonians, the rocks off Sorrento were the Sirens, and Avernus was the door to the dead. Virgil took all of this into the Aeneid, and the places kept their names.",
+    "src": "Theophrastus, Enquiry into Plants 5.8.3; Strabo 5.3.6; Pliny, Natural History 3.59"
+   },
+   "where_8": {
+    "name": "Bérard takes a boat",
+    "text": "In 1912 the French scholar Victor Bérard sailed the route with the photographer Frédéric Boissonnas. He believed that Homer had used a Phoenician pilot’s guide. He put Calypso by the Strait of Gibraltar, the Laestrygonians on the Strait of Bonifacio, the Cyclops on the Bay of Naples and the Lotus-eaters on Djerba. His maps are still the ones most often printed.",
+    "src": "V. Bérard, Les Phéniciens et l’Odyssée (1902–03); Les navigations d’Ulysse (1927–29)"
+   },
+   "where_9": {
+    "name": "All in Greek waters?",
+    "text": "In 1985 Tim Severin sailed a copy of a Bronze Age galley from Troy towards Ithaca. He argued that such a ship could not have gone far, and that the adventures fit the coasts of Greece itself: the Laestrygonians in the Mani, Aeolus and the Cyclops on Crete, Circe on Paxos, the dead on the Acheron, Scylla and Charybdis in the channel of Lefkada.",
+    "src": "T. Severin, The Ulysses Voyage (1987)"
+   },
+   "where_10": {
+    "name": "The Argo was there first",
+    "text": "Homer says that only one ship ever passed the Wandering Rocks: the Argo, “known to all” (Book 12). Circe is the sister of Aeetes, the king whom Jason robbed. The Laestrygonians have a spring called Artacie, a name that belongs to Cyzicus on the Sea of Marmara. Since Karl Meuli (1921) many scholars think that some adventures were taken over from an older poem about Jason’s voyage to the Black Sea.",
+    "src": "K. Meuli, Odyssee und Argonautika (1921)"
+   },
+   "where_11": {
+    "name": "What is left",
+    "text": "Three points are firm: Troy, Cape Malea and, for most scholars, Ithaca. Between Malea and Ithaca Homer counts days and winds, and tells of places that no ship can reach. The marks on this map are the old Greek and Roman tradition. They show where people have looked for the story, not where it happened."
+   }
+  }
+ },
+ "realms": {
+  "name": "Kingdoms and returns",
+  "sub": "How the kings came home from Troy",
+  "intro": "The return of Odysseus is one among many. {{3|Nestor tells Telemachus how the others fared (Book 3).}} {{4|Menelaus adds what the sea god Proteus told him (Book 4).}} Tap a kingdom to see its king and his way home. The regions are drawn around the towns that Homer gives each king in the Iliad. They are not historical borders."
+ },
+ "suitors": {
+  "name": "The suitors",
+  "sub": "108 young men in another man’s house",
+  "intro": "For more than three years the young nobles of the islands have lived in the house of Odysseus, eating his herds and courting his wife. {{16|Telemachus counts them for his father: 108 suitors and ten attendants (Book 16).}} The numbers show how large Homer imagined each island.",
+  "items": {
+   "suitors_1": {
+    "name": "Dulichium: 52",
+    "text": "{{16|Fifty-two picked young men and six servants: almost half of all the suitors.}} Dulichium is “rich in wheat and grass”, and it has never been found."
+   },
+   "suitors_2": {
+    "name": "Same: 24",
+    "text": "{{16|Twenty-four suitors.}} {{20|One of them is Ctesippus, “a man who knew no law”, who throws an ox foot at Odysseus (Book 20).}}"
+   },
+   "suitors_3": {
+    "name": "Zacynthus: 20",
+    "text": "{{16|Twenty suitors. None of them is named by his island.}}"
+   },
+   "suitors_4": {
+    "name": "Ithaca: 12",
+    "text": "{{16|Twelve suitors, “all of the best”, and with them the herald Medon, the bard Phemius and two carvers.}} The two leaders, Antinous and Eurymachus, are Ithacans."
+   },
+   "suitors_5": {
+    "name": "Three years at one table",
+    "text": "Penelope held them off with her weaving for more than three years (Book 2). {{14|Eumaeus reckons what they are eating their way through: on the mainland twelve herds of cattle, twelve flocks of sheep, twelve droves of pigs and twelve herds of goats, and on Ithaca eleven more herds of goats (Book 14).}}"
+   }
+  }
+ },
+ "arch": {
+  "name": "Archaeology",
+  "sub": "What the spade has found",
+  "intro": "Places where something has been dug up that bears on the poem: the islands of Odysseus, the palaces of his hosts, and the western coasts where Aegean ships sailed long before Homer. Places that stay bright on the map have excavations too: open them to read what was found."
+ },
+ "gods": {
+  "name": "Gods and their places",
+  "sub": "Where the gods live and are worshipped in the poem",
+  "intro": "The gods of the Odyssey have homes, favourite places and altars. Some of these places were real sanctuaries for a thousand years.",
+  "items": {
+   "gods_1": {
+    "name": "The gods · Olympus",
+    "text": "“It is not shaken by winds, nor wet with rain, and snow does not come near it; clear air spreads cloudless about it” (Book 6). From here Zeus sends Athena to Ithaca{{5| and Hermes to Calypso}}."
+   },
+   "gods_2": {
+    "name": "Poseidon · the shore of Pylos",
+    "text": "{{3|The people of Pylos sacrifice eighty-one black bulls to Poseidon on the sand (Book 3).}} In the Linear B tablets of Pylos, Poseidon is the god who receives the most offerings."
+   },
+   "gods_3": {
+    "name": "Poseidon · Geraestus",
+    "text": "{{3|The men of Nestor lay the thighs of many bulls on the altar of Poseidon after crossing the open sea (Book 3).}} A sanctuary of Poseidon stood at Geraestus in historical times."
+   },
+   "gods_4": {
+    "name": "Poseidon · Aegae",
+    "text": "{{5|After wrecking the raft, Poseidon drives his horses to Aegae, where his famous house is (Book 5).}} Where Aegae lay is disputed: on Euboea or in Achaea."
+   },
+   "gods_5": {
+    "name": "Holy Sunium",
+    "text": "Homer calls the cape “holy Sunium”. Temples of Poseidon and of Athena stood on it later."
+   },
+   "gods_6": {
+    "name": "Athena · Athens",
+    "text": "{{7|Athena leaves Scheria and goes to Marathon and to Athens, into the strong house of Erechtheus (Book 7).}}"
+   },
+   "gods_7": {
+    "name": "Apollo · Delos",
+    "text": "{{6|Odysseus has seen a young palm tree growing by the altar of Apollo on Delos (Book 6).}} The palm of Delos was shown to visitors throughout antiquity."
+   },
+   "gods_8": {
+    "name": "Apollo · Pytho",
+    "text": "{{8|Agamemnon crossed the stone threshold at Pytho to hear the oracle of Apollo before the war (Book 8).}}"
+   },
+   "gods_9": {
+    "name": "Zeus · Dodona",
+    "text": "{{14|In the beggar’s tale Odysseus goes to Dodona to hear the will of Zeus from the god’s tall oak (Books 14 and 19).}}"
+   },
+   "gods_10": {
+    "name": "Hephaestus · Lemnos",
+    "text": "{{8|Lemnos is the land that Hephaestus loves best. The Sintians, “of wild speech”, live there (Book 8).}}"
+   },
+   "gods_11": {
+    "name": "Aphrodite · Paphos",
+    "text": "{{8|Freed from the net, Aphrodite goes to Paphos on Cyprus, where the Graces bathe and anoint her (Book 8).}}"
+   },
+   "gods_12": {
+    "name": "Ares · Thrace",
+    "text": "{{8|Freed from the net, Ares goes off to Thrace (Book 8).}}"
+   },
+   "gods_13": {
+    "name": "Eileithyia · Amnisus",
+    "text": "{{19|The beggar mentions the cave of Eileithyia at Amnisus (Book 19).}} A tablet from Knossos, at least five hundred years older than the poem, records honey sent to the same goddess at the same place."
+   },
+   "gods_14": {
+    "name": "Artemis · Taygetus",
+    "text": "{{6|Nausicaa among her maids is like Artemis on Taygetus or Erymanthus, glad in the hunt of boars and deer (Book 6).}}"
+   },
+   "gods_15": {
+    "name": "Apollo · Ismarus",
+    "text": "Maron, the priest whom Odysseus spares, serves Apollo, “who watched over Ismarus” (Book 9)."
+   },
+   "gods_16": {
+    "name": "Poseidon · Scheria",
+    "text": "The Phaeacians have their assembly place around a fine precinct of Poseidon (Book 6). They are his descendants. {{13|He punishes them all the same (Book 13).}}"
+   },
+   "gods_17": {
+    "name": "The Nymphs · Ithaca",
+    "text": "The cave by the harbour of Phorcys belongs to the Naiads (Book 13). {{17|A second altar of the nymphs stands by the fountain outside the town (Book 17).}}"
+   },
+   "gods_18": {
+    "name": "Apollo · Ithaca",
+    "text": "On the feast day of Apollo the Ithacans gather in his shady grove (Book 20). {{21|It is the day of the contest of the bow.}}"
+   },
+   "gods_19": {
+    "name": "Hermes · Cyllene",
+    "text": "Hermes of Cyllene, with his golden wand, calls out the souls of the dead and leads them down (Book 24)."
+   }
+  }
+ },
+ "winds": {
+  "name": "Winds and sailing",
+  "sub": "How far, how fast, by which wind",
+  "intro": "The Odyssey is a poem of sailors. It names the four winds, counts voyages in days and steers by the stars. This theme gathers what the poem says about sailing, and what is true of these waters today.",
+  "items": {
+   "winds_1": {
+    "name": "Homer’s four winds",
+    "text": "Boreas blows from the north, Notus from the south, Eurus from the east and Zephyrus from the west. {{5|When Poseidon wrecks the raft, all four fall on it at once (Book 5).}}"
+   },
+   "winds_2": {
+    "name": "Cape Malea",
+    "text": "Fleets that try to round this cape are blown away. {{3|It happens to Menelaus (Book 3).}} {{4|It happens to Agamemnon (Book 4).}} {{9|It happens to Odysseus (Book 9).}} Winds from two seas meet here, and sailors still fear the cape."
+   },
+   "winds_3": {
+    "name": "Steering by the stars",
+    "text": "{{5|Calypso tells Odysseus to keep the Bear on his left hand. He watches the Pleiades, late-setting Boötes and the Bear, “which alone never bathes in Ocean”, and so holds a course to the east for seventeen nights (Book 5).}}"
+   },
+   "winds_4": {
+    "name": "Five days to Egypt",
+    "text": "{{14|In the beggar’s tale a north wind carries his ships from Crete to the river Aigyptos in five days (Book 14).}} That is about 550 km: a little over 100 km a day, a fair run for a ship under sail before a steady wind."
+   },
+   "winds_5": {
+    "name": "The currents of the strait",
+    "text": "In the Strait of Messina the tide turns about every six hours and sets up strong currents and whirlpools. Thucydides explains that the strait was called Charybdis because the sea rushes into the narrows from two great seas.",
+    "src": "Thucydides 4.24"
+   }
+  },
+  "lines": {
+   "winds_l1": {
+    "name": "Boreas at Malea",
+    "text": "The north wind that drives ships from Cape Malea towards Crete and the open sea."
+   },
+   "winds_l2": {
+    "name": "The summer north winds",
+    "text": "In summer the etesian winds blow down the Aegean from the north for days on end. They carry a ship quickly from Troy towards home, and make the way back hard."
+   },
+   "winds_l3": {
+    "name": "Crete to Egypt in five days",
+    "text": "{{14|The run before the north wind in the beggar’s tale (Book 14).}} Bronze Age ships did sail this way: Cretan and Mycenaean pottery is found all along the coast of Egypt."
+   }
+  }
+ },
+ "edges": {
+  "name": "The edges of the world",
+  "sub": "Far peoples, and places off the map",
+  "intro": "Homer’s world has a known middle and a rim of wonders. Some far places are on the map. For others an arrow shows the direction.",
+  "items": {
+   "edges_1": {
+    "name": "↓ Egyptian Thebes",
+    "text": "{{4|Helen has a silver work basket and Menelaus two silver baths, gifts from Thebes in Egypt, “where the houses hold the most treasure” (Book 4).}}"
+   },
+   "edges_2": {
+    "name": "↓ The Ethiopians",
+    "text": "When the poem begins, Poseidon is away among the far-off Ethiopians, and so the other gods can decide for Odysseus (Book 1). {{4|Menelaus says that he reached them in his wanderings (Book 4).}}"
+   },
+   "edges_3": {
+    "name": "← The Elysian plain",
+    "text": "{{4|Proteus tells Menelaus that he will not die: the gods will send him to the Elysian plain at the ends of the earth, where life is easiest for men and Ocean sends the west wind to cool them (Book 4).}}"
+   },
+   "edges_4": {
+    "name": "The Cimmerians",
+    "text": "At the far shore of Ocean live the Cimmerians, wrapped in mist and cloud. The sun never looks on them (Book 11). A real people of this name lived north of the Black Sea in Homer’s time."
+   },
+   "edges_5": {
+    "name": "→ Aeetes and Colchis",
+    "text": "Circe is the sister of Aeetes (Book 10). {{12|The Argo passed the Wandering Rocks “sailing from Aeetes” (Book 12).}} Later Greeks put his kingdom in Colchis, at the eastern end of the Black Sea."
+   },
+   "edges_6": {
+    "name": "↑ The men who know no sea",
+    "text": "Tiresias tells Odysseus that after he has come home he must walk inland with an oar on his shoulder, until he comes to people who know nothing of the sea and take the oar for a winnowing fan. There he must sacrifice to Poseidon (Book 11). Later Greeks placed this journey in Epirus or in Arcadia."
+   }
+  }
+ },
+ "history": {
+  "name": "History behind the tale",
+  "sub": "What is memory, and what is the poet’s own time",
+  "intro": "The Odyssey looks back to an age of palaces that ended around 1200 BC. But it was shaped some five hundred years later, when Greeks were sailing west and learning to write. Both times can be seen in it.",
+  "items": {
+   "history_1": {
+    "name": "Raiders in the Delta",
+    "text": "{{14|Twice the beggar tells how he led ships to Egypt, how his men plundered the fields, and how the king’s army cut them down (Books 14 and 17).}} Egyptian inscriptions record just such attacks by “peoples of the sea” under Merneptah (about 1208 BC) and Ramesses III (about 1177 BC)."
+   },
+   "history_2": {
+    "name": "Phoenician traders",
+    "text": "{{15|The Phoenicians of the poem bring trinkets, trade for a year and steal a child (Book 15).}} Phoenician goods and ships reached the Aegean in numbers in the ninth and eighth centuries BC. This is the poet’s world, not that of the palaces."
+   },
+   "history_3": {
+    "name": "Iron for copper",
+    "text": "Mentes sails with a cargo of “gleaming iron” to trade for copper (Book 1). Iron as an everyday cargo belongs to the centuries after 1000 BC."
+   },
+   "history_4": {
+    "name": "A memory of palaces",
+    "text": "{{3|Telemachus is bathed in a polished tub in the house of Nestor (Book 3).}} The palace at Pylos, burnt around 1180 BC, has a bathroom with a clay tub still in place. Nobody in Homer’s day had seen it: the songs had kept the memory."
+   },
+   "history_5": {
+    "name": "The alphabet",
+    "text": "The Greeks took their letters from the Phoenicians around 800 BC. Some of the oldest inscriptions are lines of verse. The Odyssey is usually dated to the late eighth or the seventh century BC: one of the first long works to be written down in Europe."
+   },
+   "history_6": {
+    "name": "Greeks go west",
+    "text": "Before 750 BC Greeks from Euboea settled on Ischia, and then at Cumae. Naxos and Syracuse in Sicily followed around 734 BC, and Corcyra at about the same time. The Odyssey took its shape in these same decades. Its interest in far coasts, good harbours and the treatment of strangers is theirs."
+   },
+   "history_7": {
+    "name": "Ithaca on the sea road",
+    "text": "From the ninth century BC ships bound for Italy passed through the strait of Ithaca. The pottery at Aetos comes from Corinth, Euboea and beyond. A small island on a great route: that is the Ithaca the first audiences knew."
+   }
+  }
+ },
+ "linearb": {
+  "name": "Names in Linear B",
+  "sub": "The Odyssey and the palace archives",
+  "intro": "Linear B is the script of the Mycenaean palaces. The tablets are accounts, not poems. But they name gods and places that the Odyssey still knows, five hundred years later.",
+  "items": {
+   "linearb_1": {
+    "name": "Pylos: po-se-da-o, re-wo-to-ro-ko-wo",
+    "text": "po-se-da-o = Poseidon, who receives more offerings than any other god at Pylos{{3|; in Book 3 the whole people of Pylos sacrifices to him}}. re-wo-to-ro-ko-wo = “bath-pourers”, women who serve at the bath{{3|, as Polycaste does for Telemachus}}. pu-ro = Pylos. wa-na-ka = wanax, Homer’s anax, “lord”."
+   },
+   "linearb_2": {
+    "name": "Knossos: a-mi-ni-so, e-re-u-ti-ja",
+    "text": "a-mi-ni-so e-re-u-ti-ja = “Amnisos, to Eileithyia”: a jar of honey for the goddess{{19|, whose cave at Amnisos the beggar mentions in Book 19}}. ko-no-so = Knossos. da-pu₂-ri-to-jo po-ti-ni-ja = “the Mistress of the Labyrinth”."
+   },
+   "linearb_3": {
+    "name": "Thebes: ra-ke-da-mi-ni-jo",
+    "text": "ra-ke-da-mi-ni-jo = “the Lacedaemonian”: a man from the land of Menelaus who received rations at Thebes. The name of Lacedaemon is as old as the palaces."
+   },
+   "linearb_4": {
+    "name": "Agios Vasileios",
+    "text": "Linear B tablets have been found here since 2008. They show that Laconia had a palace with an archive, as Pylos had. The palace of Menelaus may have been found at last."
+   }
+  }
+ },
+ "after": {
+  "name": "After the poem",
+  "sub": "Shrines, graves and later tales",
+  "intro": "The Greeks and the Romans did not let the story end. They worshipped Odysseus, showed travellers the places of his adventures and told what happened to him afterwards. None of this is in Homer.",
+  "items": {
+   "after_1": {
+    "name": "Odysseus worshipped on Ithaca",
+    "text": "In the cave at Polis Bay people dedicated bronze tripods from the ninth century BC on, and a later offering is inscribed “a vow to Odysseus”. An inscription of about 200 BC mentions a shrine of Odysseus on Ithaca, the Odysseion, and games held in his honour.",
+    "src": "Inscriptions of Magnesia on the Maeander, no. 36"
+   },
+   "after_2": {
+    "name": "Calypso’s cave",
+    "text": "A cave above Ramla Bay on Gozo is shown as the cave of Calypso. The idea that her island was called Gaudos goes back to the poet Callimachus. The scholar Apollodorus already attacked him for it.",
+    "src": "Strabo 1.2.37, 7.3.6"
+   },
+   "after_3": {
+    "name": "The ship of stone",
+    "text": "On Corfu the islet of Pontikonisi is shown as the Phaeacian ship that Poseidon turned to stone. A rock off Palaiokastritsa makes the same claim."
+   },
+   "after_4": {
+    "name": "The grave of Elpenor",
+    "text": "At Circeii, the cape of Circe, the Romans showed the grave of Elpenor, overgrown with myrtle, and a cup said to have been Odysseus’ own.",
+    "src": "Theophrastus, Enquiry into Plants 5.8.3; Strabo 5.3.6"
+   },
+   "after_5": {
+    "name": "The graves of the Sirens",
+    "text": "A later story said that the Sirens threw themselves into the sea when Odysseus got past them. One of them, Parthenope, was washed ashore where Naples stands, and the city was first named after her.",
+    "src": "Strabo 1.2.13, 5.4.7"
+   },
+   "after_6": {
+    "name": "Latinus, son of Odysseus",
+    "text": "The end of Hesiod’s Theogony makes Circe bear Odysseus two sons, Agrius and Latinus, who rule the Tyrrhenians. Some Romans counted Odysseus among their ancestors.",
+    "src": "Hesiod, Theogony 1011–1016"
+   },
+   "after_7": {
+    "name": "The Telegony",
+    "text": "{{25|A lost epic by Eugammon of Cyrene, of the sixth century BC, told the end. Odysseus goes to Thesprotia and marries its queen. Years later, back on Ithaca, he is killed by Telegonus, his son by Circe, who does not know him. Telegonus marries Penelope, and Telemachus marries Circe.}}"
+   }
+  }
+ },
+ "coasts": {
+  "name": "Changing coastlines",
+  "sub": "A tour: how the shore has moved",
+  "intro": "Rivers bring down silt, the land rises and sinks, and harbours that Homer’s sailors could have used now lie inland or under water. Each stop names the study it rests on.",
+  "items": {
+   "coasts_1": {
+    "name": "Pylos",
+    "text": "Under the fields near Romanos, drill cores show a filled-in rectangular basin. Eberhard Zangger takes it for an artificial harbour of Mycenaean times, 5 km from the Palace of Nestor. If he is right, it is the first large harbour work of the age{{3|, and close to where Telemachus lands}}.",
+    "src": "E. Zangger and others (1997)"
+   },
+   "coasts_2": {
+    "name": "The Achelous and the Echinades",
+    "text": "The silt of the Achelous has been joining the Echinades islands to the mainland for thousands of years. Ancient writers already noticed it. If Dulichium was one of these islands, part of it may now be a hill in the plain.",
+    "src": "A. Vött, H. Brückner and others (2004–2017)"
+   },
+   "coasts_3": {
+    "name": "Was Paliki an island?",
+    "text": "A theory of 2005 says that the low neck of land at Thinia was a sea channel in the Bronze Age, later filled by rockfalls. Western Cephalonia would then have been a separate island, the one “furthest out to sea, towards the dark”: Homer’s Ithaca. Drilling and surveys have not confirmed a channel so far, and the question is open.",
+    "src": "R. Bittlestone, J. Diggle, J. Underhill, Odysseus Unbound (2005)"
+   },
+   "coasts_4": {
+    "name": "The mouth of the Acheron",
+    "text": "In antiquity the bay at the mouth of the Acheron, the “Sweet Harbour”, reached far inland, and a lake and marshes filled the plain below the hill of the oracle of the dead. The river’s silt has filled the bay. The marshes were drained in the twentieth century.",
+    "src": "M. Besonen, G. Rapp, Z. Jing (2003)"
+   },
+   "coasts_5": {
+    "name": "Pharos",
+    "text": "Homer’s island is now a neck of land in the city of Alexandria. After 331 BC a causeway was built out to it, and sand has gathered on both sides ever since.",
+    "src": "N. Marriner, J.-P. Goiran, C. Morhange (2008)"
+   },
+   "coasts_6": {
+    "name": "Thonis-Heracleion",
+    "text": "The port at the mouth of the Nile where Greek ships entered Egypt now lies about 6 km out to sea, under ten metres of water. The soft ground of the delta sank and slid. It was found again in 2000.",
+    "src": "F. Goddio (2007)"
+   },
+   "coasts_7": {
+    "name": "The bay of Troy",
+    "text": "North of Troy there was a bay with marshes and lagoons. The silt of the Scamander and the Simoeis has filled it. The ships that Odysseus sailed home with were drawn up on this shore.",
+    "src": "J. Kraft, G. Rapp, İ. Kayan, J. Luce (2003); İ. Kayan (2014)"
+   }
+  }
+ }
+}

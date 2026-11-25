@@ -1,0 +1,149 @@
+{
+ "digs": {
+  "x_polis": {
+   "name": "Cave at Polis Bay",
+   "note": "Ithaca · the tripods",
+   "text": "A sea cave, now collapsed, that was a shrine from the Bronze Age to Roman times. Thirteen bronze tripod cauldrons of the ninth and eighth centuries BC were found here: one in the nineteenth century, twelve by Sylvia Benton in the 1930s. {{13|The Phaeacians give Odysseus thirteen tripods, and he hides his gifts in a cave (Book 13).}} A piece of a clay mask of about the second century BC carries the words “a vow to Odysseus”: he was worshipped here."
+  },
+  "x_pilikata": {
+   "name": "Pilikata",
+   "note": "Ithaca · hill above Stavros",
+   "text": "A hill with a view of three bays. W. A. Heurtley dug here in 1930–31 and found a settlement that lasted from the Early Bronze Age into Mycenaean times, with a stretch of a wall around it. Many scholars look for the town of Odysseus on this hill."
+  },
+  "x_aetos": {
+   "name": "Aetos",
+   "note": "Ithaca · the isthmus",
+   "text": "Schliemann came here in 1868 and took the walls on the hill for the castle of Odysseus. They belong to a Greek town of historical times. Below the hill a shrine and a settlement of the ninth to seventh centuries BC have been excavated, with pottery from Corinth and elsewhere: Ithaca was a port of call on the sea road to the west."
+  },
+  "x_tzanata": {
+   "name": "Tholos tomb of Tzanata",
+   "note": "Cephalonia, near Poros",
+   "text": "The largest Mycenaean beehive tomb in the Ionian islands, found in 1991 and dated to about 1350 BC. It shows that a ruler of some rank had his seat in the south-east of Cephalonia."
+  },
+  "x_mazarakata": {
+   "name": "Mazarakata",
+   "note": "Cephalonia · Mycenaean cemetery",
+   "text": "A cemetery of rock-cut chamber tombs, most of them of the twelfth century BC, the largest on the island. Cephalonia was thickly settled just when the palaces of the mainland fell."
+  },
+  "x_voidokilia": {
+   "name": "Tholos tomb at Voidokilia",
+   "note": "the “tomb of Thrasymedes”",
+   "text": "A small beehive tomb on the headland above the bay of Voidokilia, among the oldest of its kind on the Greek mainland. Pausanias was shown a tomb of Thrasymedes, the son of Nestor, near here. In the cliff opposite is the “cave of Nestor”."
+  },
+  "x_kakovatos": {
+   "name": "Kakovatos",
+   "note": "Triphylia",
+   "text": "Three large beehive tombs and a building on a hill, of about 1500 BC, excavated by Wilhelm Dörpfeld in 1907–08. Among the finds is amber from the Baltic. Dörpfeld, following Strabo, took the place for Nestor’s Pylos."
+  },
+  "x_nekromanteion": {
+   "name": "The “oracle of the dead” on the Acheron",
+   "note": "Mesopotamos, Thesprotia",
+   "text": "A fortified building of the third century BC on a hill above the river Acheron, excavated by Sotirios Dakaris from 1958. He took it for the oracle of the dead that Herodotus mentions. Others think that it was a fortified farmhouse. The hill of Xylokastro nearby has walls and pottery of Mycenaean times."
+  },
+  "x_lefkandi": {
+   "name": "Lefkandi",
+   "note": "Euboea",
+   "text": "A large settlement of the Late Bronze Age and the Early Iron Age. A great building of about 950 BC was found here, with the burial of a warrior, a woman and four horses: the kind of funeral the epics describe. The Euboeans were the first Greeks to sail west again."
+  },
+  "x_kommos": {
+   "name": "Kommos",
+   "note": "the harbour of Phaestus",
+   "text": "A large harbour in southern Crete that traded with Egypt, Cyprus and the Levant. {{3|The ships of Menelaus are wrecked on this coast (Book 3).}}"
+  },
+  "x_marsa": {
+   "name": "Bates’s Island",
+   "note": "Marsa Matruh, Egypt",
+   "text": "A small trading post of the fourteenth and thirteenth centuries BC on an islet in a lagoon, with pottery from Cyprus, Crete and Mycenaean Greece. No such goods have been found further west on the coast of Africa: this is the edge of Homer’s Libya."
+  },
+  "x_uluburun": {
+   "name": "Uluburun shipwreck",
+   "note": "sank around 1300 BC",
+   "text": "A merchant ship of the late fourteenth century BC that sank near Kaş. The cargo is copper, tin, glass, ivory and luxury objects, among them Mycenaean pottery and an Egyptian scarab with the name of Nefertiti. It is the best picture we have of seafaring in the age the poem looks back to."
+  },
+  "x_gelidonya": {
+   "name": "Cape Gelidonya shipwreck",
+   "note": "sank around 1200 BC",
+   "text": "A small merchant ship with copper ingots and a smith’s tools that sank around 1200 BC."
+  },
+  "x_thapsos": {
+   "name": "Thapsos",
+   "note": "Sicily",
+   "text": "A Bronze Age town on a low peninsula north of Syracuse. Its tombs hold Mycenaean and Cypriot pottery from about 1400 BC on. Aegean sailors knew the coasts of Sicily long before the poem."
+  },
+  "x_scoglio": {
+   "name": "Scoglio del Tonno",
+   "note": "Taranto",
+   "text": "A Bronze Age settlement on the harbour of Taranto with a great deal of Mycenaean pottery. It was dug in haste in 1899 and then destroyed by the building of the modern port."
+  },
+  "x_roca": {
+   "name": "Roca Vecchia",
+   "note": "Apulia",
+   "text": "A fortified town on the heel of Italy, on the strait of Otranto. It was stormed and burnt around 1400 BC, and pottery of Aegean type was in use here for centuries afterwards. The shortest crossing from Greece to Italy ends here."
+  },
+  "x_vivara": {
+   "name": "Vivara",
+   "note": "Bay of Naples",
+   "text": "A small island next to Procida with Mycenaean pottery of the seventeenth to fifteenth centuries BC, among the earliest in Italy. Aegean ships came here some eight hundred years before the first Greek colony."
+  },
+  "x_pithekoussai": {
+   "name": "Pithekoussai",
+   "note": "Ischia",
+   "text": "The first Greek settlement in the west, founded by Euboeans before 750 BC. In a grave of about 720 BC lay a cup with three lines of verse scratched on it: “I am the cup of Nestor, good to drink from…”. It is among the oldest Greek writing known, and it makes a joke about a cup from the epics."
+  },
+  "x_cumae": {
+   "name": "Cumae",
+   "note": "Campania",
+   "text": "Founded by Euboeans in the second half of the eighth century BC, the first Greek city on the Italian mainland. {{10|Its people showed the way down to the dead at the crater lake of Avernus, two kilometres away.}}"
+  },
+  "x_antigori": {
+   "name": "Nuraghe Antigori",
+   "note": "Sardinia",
+   "text": "A group of stone towers above the gulf of Cagliari with much Mycenaean pottery of the thirteenth and twelfth centuries BC, some imported and some made on the spot. It marks the far western reach of Aegean trade in the Bronze Age."
+  }
+ },
+ "digNotes": {
+  "ithaca": "Mycenaean finds on Ithaca are modest: pottery and walls in the north (Pilikata, Agios Athanasios, Polis Bay) and at Aetos. No palace like that of Pylos has been found.",
+  "palace": "The “School of Homer” at Agios Athanasios: walls on terraces cut into the rock, Mycenaean pottery and an underground spring chamber. In 2010 the excavators, from the University of Ioannina, announced it as the palace of Odysseus. Many archaeologists are not convinced.",
+  "pylos": "The Palace of Nestor: a hall with a great hearth, a bathroom with a clay tub, storerooms full of jars for oil and wine, and more than 1000 Linear B tablets. It burned down around 1180 BC. In 2015 the untouched grave of a warrior of about 1450 BC was found beside it.",
+  "sparta": "The Menelaion, a shrine of Menelaus and Helen from about 700 BC, stands beside Mycenaean mansions. At Agios Vasileios a Mycenaean palace with Linear B tablets has been excavated since 2009.",
+  "mycenae": "The Lion Gate, Grave Circle A with the gold masks (around 1550 BC), the tholos tomb called the “Treasury of Atreus”, the palace on the summit.",
+  "argos": "Mycenaean graves and a settlement on the hills of Aspis and Larisa.",
+  "knossos": "The palace and the Linear B archive from Mycenaean times.",
+  "amnisos": "A Linear B tablet from Knossos records a jar of honey sent “to Eileithyia at Amnisos”. The cave holds offerings from the Stone Age to Roman times.",
+  "thebes": "Under modern Thebes: Linear B tablets and cylinder seals from the Near East.",
+  "athens": "Mycenaean walls on the Acropolis and an underground well, used around 1200 BC in times of danger.",
+  "dodona": "The oldest finds at the sanctuary are of the Late Bronze Age. The theatre and the temples that stand today are about a thousand years younger.",
+  "troy": "A citadel with walls 4–5 m thick and towers; a lower city to the south of about 20–30 ha, enclosed by a ditch. The fire and destruction of Troy VIIa around 1180 BC.",
+  "scheria": "No Mycenaean palace has been found on Corfu. The Greek city of Corcyra was founded from Corinth around 730 BC, at the time when the poem was taking shape.",
+  "aeolia": "On the acropolis of Lipari the Bronze Age layers hold Mycenaean pottery from the sixteenth century BC on. The island was a port of call for Aegean ships long before the poem.",
+  "ogygia": "The stone temples of Ġgantija on Gozo, built around 3600 BC, are far older than any Greek tale.",
+  "ismaros": "On the hill of Agios Georgios above Maroneia stand fortification walls older than the Greek town. Local people call a cave nearby the cave of the Cyclops.",
+  "egypt": "Thonis-Heracleion was found under the sea in 2000 by the team of Franck Goddio: temples, statues and dozens of ships. The city flourished from the sixth century BC, long after Homer.",
+  "cyprus": "At Old Paphos (Kouklia) the sanctuary of Aphrodite goes back to about 1200 BC. The goddess was shown there as a cone-shaped stone."
+ },
+ "rivers": {
+  "scamander": "Scamander",
+  "simoeis": "Simoeis",
+  "satnioeis": "Satnioeis",
+  "rhodios": "Rhodius",
+  "praktios": "Practius",
+  "strymon": "Strymon (Struma)",
+  "hebros": "Hebrus (Maritsa)",
+  "sangarios": "Sangarius",
+  "maeander": "Maeander",
+  "kaystros": "Cayster",
+  "hermos": "Hermus",
+  "acheloos": "Achelous",
+  "axios": "Axius (Vardar)",
+  "peneios": "Peneus",
+  "spercheios": "Spercheius",
+  "scamander_old": "Scamander ~1200 BC",
+  "simoeis_old": "Simoeis ~1200 BC",
+  "aigyptos": "Aigyptos (Nile)",
+  "danube": "Ister (Danube)",
+  "po": "Po",
+  "tiber": "Tiber",
+  "rhone": "Rhône",
+  "ebro": "Ebro"
+ }
+}

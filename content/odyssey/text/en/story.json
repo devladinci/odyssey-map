@@ -1,0 +1,303 @@
+{
+ "events": {
+  "e_agora": {
+   "name": "Assembly place",
+   "note": "schematic",
+   "text": "{{2|Telemachus calls the Ithacans to assembly, the first since Odysseus sailed, and asks them for a ship (Book 2).}} {{16|The suitors meet here when their ambush has failed (Book 16).}} {{24|The families of the dead suitors gather here (Book 24).}}",
+   "loc": "Schematic. Homer puts the assembly place in the town, but where the town stood is not known. The marker follows those who look for it in the north of the island, near Stavros."
+  },
+  "e_harbour": {
+   "name": "Harbour of the town",
+   "note": "Polis Bay?",
+   "text": "{{2|The ship of Telemachus is launched here at night and sails for Pylos (Book 2).}} {{4|The ship of the suitors leaves from here for the ambush (Book 4).}} {{16|Both ships come back to this harbour (Book 16).}}",
+   "loc": "Schematic. Polis Bay is the only good anchorage on the north-west coast, below Stavros. Its name means “town”."
+  },
+  "e_hermes": {
+   "name": "Hill of Hermes",
+   "text": "{{16|From this hill above the town Eumaeus sees a ship full of armed men coming into the harbour (Book 16).}}",
+   "loc": "Schematic. The hill has not been identified."
+  },
+  "e_fountain": {
+   "name": "Fountain of the Nymphs",
+   "text": "{{17|A built spring with a ring of poplars and an altar of the nymphs, where the townspeople draw water. Here the goatherd Melanthius meets Odysseus and Eumaeus, insults them and kicks Odysseus (Book 17).}}",
+   "loc": "Schematic. Homer puts it on the road, close to the town. The spring has not been identified."
+  },
+  "e_laertes": {
+   "name": "Laertes’ farm",
+   "text": "Laertes no longer comes to the town. He lives on his farm with an old servant woman and wears himself out in the vineyard (Book 1). {{11|In winter he sleeps in the ashes by the hearth, in summer on fallen leaves among the vines (Book 11).}} {{24|Odysseus finds him here, digging round a young tree (Book 24).}}",
+   "loc": "Schematic. Homer says only that the farm is far from the town. Local tradition shows it in the plain in the north of the island."
+  },
+  "e_phorcys": {
+   "name": "Harbour of Phorcys",
+   "note": "Dexia Bay?",
+   "text": "{{13|A harbour between two headlands, so sheltered that ships lie there without mooring, with a long-leaved olive tree at its head. The Phaeacians carry the sleeping Odysseus ashore here with his gifts and row away (Book 13).}}",
+   "loc": "Schematic. Since the nineteenth century travellers have shown Dexia Bay, next to Vathy, as the harbour of Phorcys."
+  },
+  "e_cave": {
+   "name": "Cave of the Nymphs",
+   "note": "Marmarospilia?",
+   "text": "{{13|A cave sacred to the Naiads, with stone mixing bowls and looms, bees, water that never fails and two entrances: one for men and one for the gods. Athena helps Odysseus hide the gifts of the Phaeacians in it (Book 13).}}",
+   "loc": "Schematic. The cave of Marmarospilia, on the slope above Dexia Bay, has been shown as this cave since the nineteenth century. Another cave, at Polis Bay in the north, held offerings to Odysseus."
+  },
+  "e_hut": {
+   "name": "Eumaeus’ farmstead",
+   "note": "by the Raven’s Rock and Arethusa",
+   "text": "{{13|Athena sends Odysseus to the swineherd, who keeps the pigs by the Raven’s Rock and the spring Arethusa (Book 13).}} {{14|Eumaeus has built a yard of stones with twelve sties. He takes the beggar in and feeds him (Book 14).}} {{16|Here Odysseus makes himself known to Telemachus (Book 16).}}",
+   "loc": "Schematic. In the south of the island a cliff and a spring bear the names Korax (“raven”) and Arethusa to this day. The marker is on the plateau of Marathia above them."
+  },
+  "e_landing": {
+   "name": "Telemachus comes ashore",
+   "text": "{{15|Athena has told Telemachus to keep away from the strait, to land at the first point of Ithaca and to send the ship on to the town. He comes ashore at dawn and walks to the swineherd (Book 15).}}",
+   "loc": "Schematic. For a ship coming from the south, the first land is the southern end of the island."
+  },
+  "e_pylos_beach": {
+   "name": "The shore at Pylos",
+   "text": "{{3|Telemachus lands here at sunrise. On the sand the people of Pylos sit in nine companies of five hundred, and each company sacrifices nine bulls to Poseidon (Book 3).}} {{15|On the way back he goes straight to his ship here, so that Nestor cannot keep him (Book 15).}}",
+   "loc": "Schematic. The marker is on the coast nearest the palace. Drill cores near here have found a filled-in basin that may have been a harbour of the Mycenaean age."
+  },
+  "e_sch_river": {
+   "name": "The river mouth",
+   "note": "Ermones? · tradition",
+   "text": "{{5|After two days in the water Odysseus prays to the river, and it stills its stream for him. He crawls ashore and sleeps under two olive bushes (Book 5).}} {{6|Nausicaa and her maids come here to wash the clothes. A ball falls into the water, they cry out, and he wakes (Book 6).}}",
+   "loc": "Schematic, and only if Scheria is Corfu. Local tradition shows the mouth of a stream at Ermones, on the west coast."
+  },
+  "e_sch_ship": {
+   "name": "The ship turned to stone",
+   "note": "Pontikonisi? · tradition",
+   "text": "When the ship comes home from Ithaca, Poseidon strikes it with the flat of his hand, within sight of the harbour, and turns it into a rock rooted in the sea (Book 13).",
+   "loc": "Schematic, and only if Scheria is Corfu. The islet of Pontikonisi, off the ancient city, is shown as the ship."
+  }
+ },
+ "routes": {
+  "r_telemachus": {
+   "name": "Telemachus sails to Pylos",
+   "text": "Athena, in the shape of Mentor, finds a ship and a crew. They sail at night with a west wind that she sends. {{3|At sunrise they come to Pylos (Book 3).}}",
+   "loc": "Schematic. Homer gives a single night for a voyage of about 200 km."
+  },
+  "r_chariot": {
+   "name": "By chariot to Sparta",
+   "text": "Nestor gives Telemachus a chariot, horses and his son Peisistratus as driver. They spend the night at Pherae and reach Sparta on the second evening (Books 3 and 4). {{15|They come back the same way (Book 15).}}",
+   "loc": "Schematic. No chariot road crossed Taygetus: see Pherae."
+  },
+  "r_telemachus_back": {
+   "name": "Telemachus sails home",
+   "text": "Athena has warned him of the ambush. He sails by night past Crouni, Chalcis and Pheae and along the coast of Elis, then steers for the Pointed Islands and comes to the southern end of Ithaca at dawn (Book 15).",
+   "loc": "Schematic. The route keeps east of the strait where the suitors wait. The Pointed Islands are probably the southern Echinades."
+  },
+  "r_nestor": {
+   "name": "Nestor’s voyage home",
+   "text": "Nestor tells it himself. After a quarrel at Troy half the fleet sails: to Tenedos, then to Lesbos, then straight across the open sea to Geraestus on Euboea. From there a fair wind takes him round the Peloponnese to Pylos (Book 3).",
+   "loc": "Schematic. Homer names the stops, not the course between them."
+  },
+  "r_menelaus": {
+   "name": "The wanderings of Menelaus",
+   "text": "Menelaus sails with Nestor as far as Sunium, where he stops to bury his helmsman. At Cape Malea a storm splits his fleet: most of the ships are wrecked on Crete, and five are carried to Egypt (Book 3). {{4|He wanders for years, to Cyprus, Phoenicia, Egypt and Libya, and comes home in the eighth year (Book 4).}}",
+   "loc": "Schematic."
+  },
+  "r_hermes": {
+   "name": "Hermes flies to Ogygia",
+   "text": "Hermes steps from Olympus onto Pieria, drops to the sea and skims the waves like a seabird, all the way to the island of Calypso (Book 5).",
+   "loc": "Schematic. The end of the line is only as sure as Ogygia itself."
+  },
+  "r_raft": {
+   "name": "The raft",
+   "text": "Odysseus sails from Ogygia with the Bear on his left hand, that is, eastwards, and does not sleep for seventeen days. On the eighteenth day the mountains of Scheria appear. Poseidon sees him and breaks the raft. He swims for two days and nights and comes ashore at a river mouth (Book 5).",
+   "loc": "Schematic. Both ends are places of tradition."
+  },
+  "r_wander9": {
+   "name": "From Troy to the Cyclopes",
+   "text": "Told by Odysseus in Book 9. From Troy the wind brings his twelve ships to Ismarus, the town of the Cicones. A storm from the north follows. At Cape Malea the current and the wind drive them past Cythera, and for nine days they are carried to the land of the Lotus-eaters. From there they sail on to the land of the Cyclopes.",
+   "loc": "As far as Malea the route is real. From there it joins places that later tradition chose. Homer gives only winds and days."
+  },
+  "r_wander10": {
+   "name": "From the Cyclopes to Circe",
+   "text": "Told by Odysseus in Book 10. They come to the floating island of Aeolus, then row for six days to Telepylus of the Laestrygonians, where eleven of the twelve ships are destroyed. The last ship reaches Aeaea, the island of Circe.",
+   "loc": "Schematic. The line joins the traditional places. They were fixed one by one, by different cities, long after the poem. That is why the line runs through the strait of Scylla before Homer has come to it."
+  },
+  "r_bag": {
+   "name": "Within sight of Ithaca, and back",
+   "text": "Told by Odysseus in Book 10. With the west wind of Aeolus they sail for nine days and nights. On the tenth they are so close to Ithaca that they can see men tending fires. Odysseus falls asleep, the crew open the bag of winds, and the storm carries them all the way back to Aeolus.",
+   "loc": "Schematic."
+  },
+  "r_wander11": {
+   "name": "To the edge of the world",
+   "text": "Told by Odysseus in Book 11. From Aeaea the north wind carries the ship in one day to the stream of Ocean and the land of the Cimmerians, where the way down to Hades is. They return to Aeaea the same way.",
+   "loc": "Schematic. Homer sends the ship to the edge of the world. Tradition brought the place to the coast of Italy."
+  },
+  "r_wander12": {
+   "name": "From Circe to Calypso",
+   "text": "Told by Odysseus in Book 12. Past the Sirens, between Scylla and Charybdis, to Thrinacia. After the men kill the cattle of the Sun, Zeus destroys the ship. Odysseus drifts on the keel back to Charybdis, and then for nine days more, to Ogygia.",
+   "loc": "Schematic."
+  },
+  "r_home": {
+   "name": "Home in one night",
+   "text": "A Phaeacian ship with fifty-two rowers leaves Scheria at sunset. Odysseus sleeps on the deck, a sleep “most like death”. When the morning star rises, the ship runs ashore in the harbour of Phorcys on Ithaca (Book 13).",
+   "loc": "Schematic. The ships of the Phaeacians need no helmsman and know every land, Alcinous says (Book 8)."
+  },
+  "r_cretan": {
+   "name": "The Cretan’s tale",
+   "text": "A tale that Odysseus invents for Eumaeus in Book 14. He says that he is a Cretan who fought at Troy, then raided Egypt and stayed there seven years. A Phoenician took him to Phoenicia and then aboard a ship bound for Libya. The ship was wrecked off Crete, and he drifted for nine days to Thesprotia. The Thesprotians put him on a ship for Dulichium, but the crew meant to sell him, and he escaped on Ithaca.",
+   "loc": "Schematic. The tale is false, but its geography is real: these are the sea roads that a Greek of Homer’s time knew."
+  },
+  "r_eumaeus": {
+   "name": "Eumaeus’ story",
+   "text": "Told by Eumaeus in Book 15. He was a king’s son on the island Syrie. His nurse, a woman of Sidon, ran away with Phoenician traders and took the child with her. She died at sea on the seventh day. The Phoenicians came to Ithaca and sold the boy to Laertes.",
+   "loc": "Schematic. It depends on where Syrie was."
+  }
+ },
+ "books": {
+  "1": {
+   "title": "Athena Visits Telemachus",
+   "summary": "The gods decide that Odysseus shall come home. Athena, disguised as Mentes, finds the suitors feasting in his house. She tells Telemachus to call an assembly and to go and ask for news of his father."
+  },
+  "2": {
+   "title": "The Assembly on Ithaca",
+   "summary": "Telemachus accuses the suitors before the people; they blame Penelope and her web. With Athena’s help he gets a ship and sails at night."
+  },
+  "3": {
+   "title": "Telemachus at Pylos",
+   "summary": "Nestor tells how the Achaeans came home from Troy, but he has no news of Odysseus. He sends Telemachus on to Sparta with his son Peisistratus."
+  },
+  "4": {
+   "title": "Telemachus at Sparta",
+   "summary": "Menelaus and Helen remember Odysseus at Troy. Menelaus tells how the sea god Proteus told him that Odysseus is alive, held on the island of Calypso. On Ithaca the suitors set an ambush."
+  },
+  "5": {
+   "title": "Calypso and the Raft",
+   "summary": "Hermes orders Calypso to let Odysseus go. He builds a raft and sails; Poseidon wrecks it. With the help of Ino he swims ashore on Scheria."
+  },
+  "6": {
+   "title": "Nausicaa",
+   "summary": "Athena sends the princess to the river to wash clothes. Odysseus asks her for help. She gives him clothes and shows him the way to the city."
+  },
+  "7": {
+   "title": "The Palace of Alcinous",
+   "summary": "Odysseus enters the palace as a suppliant to Queen Arete. Alcinous promises him a ship. He tells how he came from the island of Calypso."
+  },
+  "8": {
+   "title": "The Games and the Songs",
+   "summary": "The Phaeacians hold games for the stranger. Demodocus sings of Troy and of Ares and Aphrodite. Odysseus weeps at the song of the wooden horse, and Alcinous asks who he is."
+  },
+  "9": {
+   "title": "The Cicones, the Lotus-eaters, the Cyclops",
+   "summary": "Odysseus names himself and begins his story: the raid on the Cicones, the Lotus-eaters, and the cave of the Cyclops Polyphemus, whom he blinds."
+  },
+  "10": {
+   "title": "Aeolus, the Laestrygonians, Circe",
+   "summary": "The bag of winds is opened within sight of Ithaca. The Laestrygonians destroy eleven ships. Circe turns the men into pigs; they stay with her a year."
+  },
+  "11": {
+   "title": "The Dead",
+   "summary": "At the edge of the world Odysseus calls up the dead. Tiresias foretells his way home. He speaks with his mother, with Agamemnon, with Achilles and with others."
+  },
+  "12": {
+   "title": "The Sirens, Scylla, the Cattle of the Sun",
+   "summary": "Odysseus hears the Sirens and loses six men to Scylla. On Thrinacia his crew kill the cattle of the Sun, and Zeus destroys the ship. Odysseus alone reaches the island of Calypso."
+  },
+  "13": {
+   "title": "Ithaca at Last",
+   "summary": "The Phaeacians carry Odysseus home asleep. Athena shows him his island, helps him hide his treasure and disguises him as an old beggar."
+  },
+  "14": {
+   "title": "The Swineherd",
+   "summary": "The beggar is welcomed by the swineherd Eumaeus, who does not know him. He tells a long false tale about himself."
+  },
+  "15": {
+   "title": "Telemachus Returns",
+   "summary": "Athena calls Telemachus home from Sparta and warns him of the ambush. Eumaeus tells the beggar the story of his life. Telemachus lands safely."
+  },
+  "16": {
+   "title": "Father and Son",
+   "summary": "Odysseus makes himself known to Telemachus, and they plan the death of the suitors. The ambush returns empty-handed."
+  },
+  "17": {
+   "title": "The Beggar in the Palace",
+   "summary": "Odysseus comes to his own house as a beggar. The goatherd kicks him, his old dog knows him, and Antinous throws a stool at him."
+  },
+  "18": {
+   "title": "The Beggar Irus",
+   "summary": "Odysseus fights the beggar Irus. Penelope shows herself to the suitors and draws gifts from them. The maid Melantho and Eurymachus insult him."
+  },
+  "19": {
+   "title": "The Scar",
+   "summary": "Penelope questions the beggar, who says that he once met Odysseus. The nurse Eurycleia washes his feet and knows him by a scar. Penelope announces the contest of the bow."
+  },
+  "20": {
+   "title": "The Morning of the Feast",
+   "summary": "Odysseus lies awake. Omens gather. The suitors laugh at the seer Theoclymenus, who sees their death."
+  },
+  "21": {
+   "title": "The Bow",
+   "summary": "Penelope brings out the bow of Odysseus. None of the suitors can string it. The beggar strings it and shoots through the twelve axes."
+  },
+  "22": {
+   "title": "The Killing of the Suitors",
+   "summary": "Odysseus shoots Antinous and names himself. With Telemachus, Eumaeus and Philoetius he kills all the suitors. The unfaithful maids are hanged."
+  },
+  "23": {
+   "title": "The Bed",
+   "summary": "Penelope tests the stranger with the secret of their bed, and knows him. They tell each other everything. In the morning he goes to his father."
+  },
+  "24": {
+   "title": "Peace",
+   "summary": "The souls of the suitors go down to Hades. Odysseus makes himself known to Laertes. The families of the dead take up arms; Athena stops the fight."
+  }
+ },
+ "overlays": {
+  "troy": {
+   "name": "Bay of Troy around 1200 BC",
+   "text": "Today Troy is several kilometres from the sea. Drill cores taken by the geologists J. Kraft and İ. Kayan (together with the classicist J. Luce) show that in the time of Troy VI–VIIa there was a bay with marshes and lagoons north of the city. The sediments of the Scamander and the Simoeis filled it in over 3000 years.",
+   "loc": "Approximate. The reconstructions differ by about 1–2 km: Kraft and Luce put the shore 1–2 km from Troy, Kayan puts it further north. The pale zone shows the marshes along the edge."
+  },
+  "troymarsh": {
+   "name": "Marshes and lagoons around 1200 BC",
+   "text": "Shallow lagoons, marshes and river channels between the bay and Troy. Strabo describes here “a blind mouth, salt lagoons and marshes”.",
+   "loc": "Approximate."
+  },
+  "latmos": {
+   "name": "Latmian Gulf around 1200 BC",
+   "text": "Today the ruins of Miletus lie in the middle of a plain, far from the coast. In the 2nd millennium BC Miletus is a peninsula in a deep gulf: under the city there are beach sands from 1413–1312 BC, and the sea remains at the Delphinion until at least around 900 BC. The sediments of the Maeander fill in the gulf; only Lake Bafa remains of it.",
+   "loc": "Approximate. The direction and the places follow the drill cores of M. Müllenhoff, A. Herda and H. Brückner; the exact line to the east is uncertain."
+  },
+  "ephesus": {
+   "name": "Gulf of Ephesus around 1200 BC",
+   "text": "Drill cores show that the shoreline of the Middle and Late Bronze Age runs right under the oldest sanctuary of Artemis, at the foot of Ayasuluk hill. Around 1000 BC the northern slope of Pion hill drops into a sea 8–20 m deep. Since then the delta of the Cayster (Küçük Menderes) has advanced by about 8 km.",
+   "loc": "Approximate (after J. Kraft, H. Brückner, İ. Kayan, 2007). The starting point at the Artemision is well established; the northern shore is less certain."
+  },
+  "gediz": {
+   "name": "Mouth of the Hermus around 1200 BC",
+   "text": "Panaztepe was an island or a peninsula in the 3rd millennium BC, and today it is about 9 km from the sea. In the Late Bronze Age the settlement probably stood on the shore of a bay where the Hermus (Gediz), the Seha River of the Hittite texts, reaches the sea.",
+   "loc": "Approximate. There are drill cores, but the exact shoreline for 1200 BC has not been published; the outline is notional."
+  },
+  "malis": {
+   "name": "Malian Gulf in antiquity",
+   "text": "The Spercheius, the river of Achilles, then entered the sea much further inland. The shore has advanced eastwards by at least 15 km in the last 4500 years. In the Bronze Age the gulf reached westwards beyond today’s villages of Anthili and Moschochori, almost to the cliffs of Trachis. At Thermopylae in 480 BC the pass was only 20–30 m wide.",
+   "loc": "Approximate (after J. Kraft et al., 1987). The line is drawn through these reference points."
+  },
+  "thermaic": {
+   "name": "Thermaic Gulf in antiquity",
+   "text": "The sediments of the Axius (Vardar), the Haliacmon and the Loudias have filled in the northern part of the gulf. At its furthest, the sea reached about 30 km inland from today’s shore. Pella, the main port of Macedonia, is today about 25 km from the sea; in the Classical period it is linked to it by a lagoon lake.",
+   "loc": "Approximate (after M. Ghilardi et al.). The direction is certain; the exact line around 1200 BC is not."
+  },
+  "kopais": {
+   "name": "Lake Copais",
+   "text": "A large shallow lake and marsh in Boeotia. Around 1300 BC the Mycenaeans drain it with canals and dykes and build the fortress of Gla. After the collapse of the palaces it floods again. It was finally drained in the 1880s. Homer calls it the Cephisian lake (Book 5, line 709).",
+   "loc": "Approximate outline."
+  },
+  "boibe": {
+   "name": "Lake Boebeis",
+   "text": "The lake beside the town of Boebe in the kingdom of Eumelus. It was drained in 1962. Today part of it (Karla) has been restored.",
+   "loc": "Approximate outline."
+  }
+ },
+ "regions": {
+  "ionian": "Ionian Sea",
+  "aegean": "Aegean Sea",
+  "tyrrhenian": "Tyrrhenian Sea",
+  "adriatic": "Adriatic Sea",
+  "libyan": "Libyan Sea",
+  "black": "Black Sea",
+  "thrace": "Thrace",
+  "asia": "Asia Minor"
+ }
+}

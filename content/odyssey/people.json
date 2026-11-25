@@ -1,0 +1,333 @@
+{
+ "gods": [
+  {
+   "id": "athena",
+   "side": "for"
+  },
+  {
+   "id": "hermes",
+   "side": "for"
+  },
+  {
+   "id": "ino",
+   "side": "for",
+   "reveals": 5
+  },
+  {
+   "id": "poseidon",
+   "side": "against"
+  },
+  {
+   "id": "helios",
+   "side": "against"
+  },
+  {
+   "id": "zeus",
+   "side": "other"
+  },
+  {
+   "id": "calypso",
+   "side": "other"
+  },
+  {
+   "id": "circe",
+   "side": "other",
+   "reveals": 10
+  },
+  {
+   "id": "aeolus",
+   "side": "other",
+   "reveals": 10
+  },
+  {
+   "id": "proteus",
+   "side": "other",
+   "reveals": 4
+  },
+  {
+   "id": "hephaestus",
+   "side": "other",
+   "reveals": 8
+  },
+  {
+   "id": "apollo",
+   "side": "other"
+  },
+  {
+   "id": "persephone",
+   "side": "other",
+   "reveals": 10
+  }
+ ],
+ "families": [
+  {
+   "id": "odysseus",
+   "group": "house",
+   "tree": {
+    "n": "arceisius",
+    "c": [
+     {
+      "n": "laertes",
+      "w": "anticleia",
+      "at": "e_laertes",
+      "c": [
+       {
+        "n": "odysseus",
+        "w": "penelope",
+        "at": "ithaca",
+        "c": [
+         {
+          "n": "telemachus"
+         }
+        ]
+       },
+       {
+        "n": "ctimene",
+        "at": "same"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "icarius",
+   "group": "house",
+   "tree": {
+    "n": "icarius",
+    "c": [
+     {
+      "n": "penelope",
+      "w": "odysseus"
+     },
+     {
+      "n": "iphthime",
+      "w": "eumelus"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nestor",
+   "group": "hosts",
+   "tree": {
+    "n": "neleus",
+    "w": "chloris",
+    "c": [
+     {
+      "n": "nestor",
+      "w": "eurydice",
+      "at": "pylos",
+      "c": [
+       {
+        "n": "antilochus"
+       },
+       {
+        "n": "thrasymedes"
+       },
+       {
+        "n": "peisistratus"
+       },
+       {
+        "n": "echephron"
+       },
+       {
+        "n": "stratius"
+       },
+       {
+        "n": "perseus"
+       },
+       {
+        "n": "aretus"
+       },
+       {
+        "n": "polycaste"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "atreus",
+   "group": "hosts",
+   "tree": {
+    "n": "atreus",
+    "c": [
+     {
+      "n": "agamemnon",
+      "w": "clytemnestra",
+      "at": "mycenae",
+      "c": [
+       {
+        "n": "orestes"
+       }
+      ]
+     },
+     {
+      "n": "menelaus",
+      "w": "helen",
+      "at": "sparta",
+      "c": [
+       {
+        "n": "hermione"
+       },
+       {
+        "n": "megapenthes"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "phaeacians",
+   "group": "hosts",
+   "reveals": 7,
+   "tree": {
+    "n": "poseidon",
+    "w": "periboea",
+    "c": [
+     {
+      "n": "nausithous",
+      "c": [
+       {
+        "n": "rhexenor",
+        "c": [
+         {
+          "n": "arete",
+          "w": "alcinous"
+         }
+        ]
+       },
+       {
+        "n": "alcinous",
+        "w": "arete",
+        "at": "scheria",
+        "c": [
+         {
+          "n": "laodamas"
+         },
+         {
+          "n": "halius"
+         },
+         {
+          "n": "clytoneus"
+         },
+         {
+          "n": "nausicaa"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "helios",
+   "group": "wander",
+   "reveals": 10,
+   "tree": {
+    "n": "helios",
+    "c": [
+     {
+      "n": "circe",
+      "at": "aeaea"
+     },
+     {
+      "n": "aeetes"
+     },
+     {
+      "n": "lampetie"
+     },
+     {
+      "n": "phaethusa"
+     }
+    ]
+   }
+  },
+  {
+   "id": "poseidon",
+   "group": "wander",
+   "reveals": 11,
+   "tree": {
+    "n": "poseidon",
+    "c": [
+     {
+      "n": "polyphemus",
+      "at": "cyclopes"
+     },
+     {
+      "n": "nausithous",
+      "c": [
+       {
+        "n": "alcinous",
+        "at": "scheria"
+       }
+      ]
+     },
+     {
+      "n": "neleus",
+      "c": [
+       {
+        "n": "nestor",
+        "at": "pylos"
+       }
+      ]
+     },
+     {
+      "n": "pelias"
+     }
+    ]
+   }
+  },
+  {
+   "id": "melampus",
+   "group": "hosts",
+   "reveals": 15,
+   "tree": {
+    "n": "melampus",
+    "c": [
+     {
+      "n": "antiphates",
+      "c": [
+       {
+        "n": "oecles",
+        "c": [
+         {
+          "n": "amphiaraus",
+          "c": [
+           {
+            "n": "alcmaeon"
+           },
+           {
+            "n": "amphilochus"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "n": "mantius",
+      "c": [
+       {
+        "n": "polypheides",
+        "c": [
+         {
+          "n": "theoclymenus"
+         }
+        ]
+       },
+       {
+        "n": "cleitus"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

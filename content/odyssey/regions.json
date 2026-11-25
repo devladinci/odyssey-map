@@ -1,0 +1,10 @@
+[
+{"id":"ionian","lat":37.2,"lon":18.4,"kind":"sea"},
+{"id":"aegean","lat":38.6,"lon":25.05,"kind":"sea"},
+{"id":"tyrrhenian","lat":39.9,"lon":12.1,"kind":"sea"},
+{"id":"adriatic","lat":42.7,"lon":15.5,"kind":"sea"},
+{"id":"libyan","lat":33.7,"lon":17.2,"kind":"sea"},
+{"id":"black","lat":43.4,"lon":33.5,"kind":"sea"},
+{"id":"thrace","lat":41.6,"lon":25.2,"kind":"land"},
+{"id":"asia","lat":38.9,"lon":31.4,"kind":"land"}
+]

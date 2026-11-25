@@ -1,0 +1,14 @@
+[
+{"id":"e_agora","lat":38.45,"lon":20.6462,"certainty":3,"minZoom":11,"anchor":"right","books":[2,16,17,24]},
+{"id":"e_harbour","lat":38.4392,"lon":20.6425,"certainty":3,"minZoom":11,"anchor":"left","books":[2,4,16]},
+{"id":"e_hermes","lat":38.456,"lon":20.6525,"certainty":3,"minZoom":12,"anchor":"right","books":[16]},
+{"id":"e_fountain","lat":38.4415,"lon":20.6515,"certainty":3,"minZoom":12,"anchor":"right","books":[17]},
+{"id":"e_laertes","lat":38.4655,"lon":20.648,"certainty":3,"minZoom":11,"anchor":"right","books":[1,11,24]},
+{"id":"e_phorcys","lat":38.3712,"lon":20.7012,"certainty":3,"minZoom":10,"anchor":"top","books":[13]},
+{"id":"e_cave","lat":38.3608,"lon":20.6972,"certainty":3,"minZoom":11,"anchor":"left","books":[13]},
+{"id":"e_hut","lat":38.3222,"lon":20.7362,"certainty":3,"minZoom":10,"anchor":"left","books":[13,14,15,16,17]},
+{"id":"e_landing","lat":38.3085,"lon":20.7071,"certainty":3,"minZoom":11,"anchor":"bottom","books":[15]},
+{"id":"e_pylos_beach","lat":36.9965,"lon":21.648,"certainty":3,"minZoom":9,"anchor":"left","books":[3,15]},
+{"id":"e_sch_river","lat":39.6095,"lon":19.779,"certainty":3,"minZoom":9,"anchor":"left","books":[5,6]},
+{"id":"e_sch_ship","lat":39.5868,"lon":19.9235,"certainty":3,"minZoom":10,"anchor":"right","books":[13]}
+]

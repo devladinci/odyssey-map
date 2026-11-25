@@ -1,0 +1,682 @@
+{
+ "ithaca": {
+  "name": "Ithaca",
+  "note": "modern Ithaki",
+  "alts": [
+   "Paliki (Cephalonia) – a modern theory",
+   "Lefkada – Dörpfeld’s theory"
+  ],
+  "heroes": [
+   {
+    "name": "Odysseus",
+    "role": "king of the Cephallenians, away for twenty years"
+   },
+   {
+    "name": "Penelope",
+    "role": "his wife"
+   },
+   {
+    "name": "Telemachus",
+    "role": "their son"
+   },
+   {
+    "name": "Laertes",
+    "role": "his father, who lives on his farm"
+   },
+   {
+    "name": "Antinous and Eurymachus",
+    "role": "leaders of the suitors, both from Ithaca"
+   }
+  ],
+  "text": "The home of Odysseus and the goal of the whole poem. He calls it rugged, but a good nurse of young men (Book 9). Telemachus says it has no meadows and no room for horses: it is land for goats (Book 4). {{13|The Phaeacians set Odysseus ashore here asleep, and at first he does not know his own island (Book 13).}} Twelve of the suitors are from Ithaca itself.",
+  "loc": "Approximate. Most scholars take Homer’s Ithaca for the island that still bears the name. But Homer says that it lies “low, and furthest out to sea, towards the dark” (Book 9, lines 25–26), which fits the island badly. That is why other islands have been proposed. The marker stands on the isthmus in the middle of the island. It marks the island, not the palace."
+ },
+ "palace": {
+  "name": "Palace of Odysseus",
+  "note": "schematic · “School of Homer”, Agios Athanasios",
+  "alts": [
+   "Pilikata – the hill above Stavros",
+   "Aetos – Schliemann’s “castle of Odysseus”"
+  ],
+  "text": "A great hall with a courtyard and a porch, storerooms below, and Penelope’s rooms upstairs. The suitors feast here every day at Odysseus’ cost. {{21|Here the bow is strung (Book 21).}} {{22|Here the suitors die (Book 22).}} {{23|Here stands the bed that Odysseus built around a living olive tree (Book 23).}}",
+  "loc": "Unknown. No palace has been found for certain. The marker is in the north of the island, at Agios Athanasios (the “School of Homer”). A team from the University of Ioannina uncovered a large building with Mycenaean remains there and proposed it as the palace; not everyone agrees. Other candidates are the hill of Pilikata, with a Bronze Age settlement, and Aetos on the isthmus. Homer puts the town near a harbour, below a mountain called Neion."
+ },
+ "same": {
+  "name": "Same (Cephalonia)",
+  "note": "ancient Same, near Sami",
+  "heroes": [
+   {
+    "name": "Ctimene",
+    "role": "sister of Odysseus, married to a man of Same"
+   },
+   {
+    "name": "Ctesippus",
+    "role": "a rich suitor{{20|, who throws an ox foot at the beggar}}"
+   }
+  ],
+  "text": "The large island across the strait from Ithaca. Homer calls it Same or Samos, “rugged Samos”. Twenty-four suitors come from here. In the Iliad the men of Odysseus are called Cephallenians, the name the island bears today.",
+  "loc": "Approximate. The island is certain. The marker is at the ancient town of Same on its east coast."
+ },
+ "zakynthos": {
+  "name": "Zacynthus",
+  "note": "modern Zakynthos",
+  "text": "“Wooded Zacynthus”, the southernmost island of the realm of Odysseus. Twenty suitors come from here.",
+  "loc": "Certain. The island has kept its name."
+ },
+ "doulichion": {
+  "name": "Dulichium",
+  "note": "the Echinades?",
+  "alts": [
+   "Lefkada – a modern theory",
+   "Pale on Cephalonia – Pherecydes"
+  ],
+  "heroes": [
+   {
+    "name": "Meges",
+    "role": "its leader at Troy (Iliad, Book 2)"
+   },
+   {
+    "name": "Amphinomus",
+    "role": "son of Nisus, the most decent of the suitors"
+   },
+   {
+    "name": "Acastus",
+    "role": "king of Dulichium{{14| in the beggar’s false tale}}"
+   }
+  ],
+  "text": "“Rich in wheat and grass”, and the home of most of the suitors: fifty-two of them, with six servants. In the Iliad it does not belong to Odysseus: Meges leads its forty ships.",
+  "loc": "Unknown. Dulichium has never been found. Strabo placed it among the Echinades, the islands off the mouth of the Achelous (the marker). The river has since joined some of them to the mainland. Others have looked for it on Cephalonia, or on Lefkada, the one large island of this sea that Homer seems not to name."
+ },
+ "pylos": {
+  "name": "Pylos",
+  "note": "Palace of Nestor, Ano Englianos",
+  "alts": [
+   "Kakovatos in Triphylia – Strabo, Dörpfeld"
+  ],
+  "heroes": [
+   {
+    "name": "Nestor",
+    "role": "the old king; came straight home from Troy"
+   },
+   {
+    "name": "Peisistratus",
+    "role": "his youngest son{{3|, companion of Telemachus}}"
+   },
+   {
+    "name": "Thrasymedes",
+    "role": "his son, who fought at Troy"
+   },
+   {
+    "name": "Polycaste",
+    "role": "his youngest daughter"
+   }
+  ],
+  "text": "“Sandy Pylos”, the first stop of Telemachus. {{3|He finds Nestor and his people on the shore, sacrificing black bulls to Poseidon, and is taken up to the palace (Book 3).}} {{3|Nestor tells him how the Achaeans quarrelled and scattered on the way home, but of Odysseus he knows nothing.}}",
+  "loc": "Certain. The palace at Ano Englianos, excavated by Carl Blegen from 1939, has Linear B tablets with the name pu-ro. Ancient scholars were less sure: Strabo argued for a Pylos further north, in Triphylia, and Wilhelm Dörpfeld found royal tombs there, at Kakovatos."
+ },
+ "sparta": {
+  "name": "Lacedaemon (Sparta)",
+  "note": "Menelaion, Therapne",
+  "alts": [
+   "Agios Vasileios (Mycenaean palace)"
+  ],
+  "heroes": [
+   {
+    "name": "Menelaus",
+    "role": "king, brother of Agamemnon{{4|; home in the eighth year, by way of Egypt}}"
+   },
+   {
+    "name": "Helen",
+    "role": "his wife, back from Troy"
+   },
+   {
+    "name": "Hermione",
+    "role": "their daughter"
+   },
+   {
+    "name": "Megapenthes",
+    "role": "his son by a slave woman"
+   }
+  ],
+  "text": "“Hollow Lacedaemon, full of ravines”. {{4|Telemachus arrives during a double wedding and is dazzled by the palace: bronze, gold, amber, silver and ivory (Book 4).}} {{4|Menelaus gathered this wealth in years of wandering to Cyprus, Phoenicia, Egypt and Libya.}}",
+  "loc": "Approximate. The palace of Menelaus has not been found. The marker is at the Menelaion (Therapne) near Sparta, where there is a Mycenaean settlement. At Agios Vasileios, about 12 km to the south, a Mycenaean palace with Linear B tablets has been excavated since 2009. It is also a candidate."
+ },
+ "pharai": {
+  "name": "Pherae",
+  "note": "modern Kalamata?",
+  "heroes": [
+   {
+    "name": "Diocles",
+    "role": "son of Ortilochus, grandson of the river Alpheus"
+   }
+  ],
+  "text": "The house of Diocles, a night’s lodging halfway between Pylos and Sparta. {{3|Telemachus and Peisistratus sleep here on the way out (Book 3).}} {{15|They sleep here again on the way back (Book 15).}}",
+  "loc": "Approximate. Pherae is usually placed at ancient Pharai, modern Kalamata. Homer makes the journey from Pylos to Sparta two easy days by chariot. In fact the high range of Taygetus lies between Pherae and Sparta, and no chariot road crossed it. The poet knows the names, not the road."
+ },
+ "mycenae": {
+  "name": "Mycenae",
+  "heroes": [
+   {
+    "name": "Agamemnon",
+    "role": "king; murdered on his return"
+   },
+   {
+    "name": "Clytemnestra",
+    "role": "his wife"
+   },
+   {
+    "name": "Aegisthus",
+    "role": "her lover, the murderer"
+   },
+   {
+    "name": "Orestes",
+    "role": "the son, who avenged his father"
+   }
+  ],
+  "text": "“Mycenae rich in gold”. Agamemnon came home from Troy and was killed at a feast by Aegisthus, with the help of Clytemnestra. The poem returns to this story again and again and sets it against its own: there the wife betrayed her husband, here she waits. {{3|Aegisthus then ruled Mycenae for seven years, until Orestes killed him (Book 3).}} {{11|The shade of Agamemnon tells Odysseus how he died (Book 11).}}",
+  "loc": "Certain."
+ },
+ "argos": {
+  "name": "Argos",
+  "heroes": [
+   {
+    "name": "Diomedes",
+    "role": "king{{3|; home on the fourth day after leaving Troy}}"
+   }
+  ],
+  "text": "{{3|Nestor tells that the ships of Diomedes reached Argos on the fourth day (Book 3).}} In the Odyssey the name Argos often means the whole Peloponnese, or all of Greece.",
+  "loc": "Certain."
+ },
+ "knossos": {
+  "name": "Knossos (Crete)",
+  "heroes": [
+   {
+    "name": "Idomeneus",
+    "role": "king of Crete, grandson of Minos{{3|; brought all his men home}}"
+   },
+   {
+    "name": "Minos",
+    "role": "the old king, who spoke with Zeus"
+   }
+  ],
+  "text": "“There is a land called Crete, in the middle of the wine-dark sea”: ninety cities and many tongues, and among them Knossos, where Minos ruled (Book 19). {{13|When Odysseus hides who he is, he says he is a Cretan: to Athena in Book 13, to Eumaeus in Book 14 and to Penelope in Book 19.}}",
+  "loc": "Certain. The palace at Knossos has an archive in Linear B."
+ },
+ "amnisos": {
+  "name": "Amnisus",
+  "text": "The harbour of Knossos, “a hard one”, with the cave of Eileithyia, the goddess of childbirth. {{19|In his tale to Penelope the beggar says that a storm drove Odysseus in here on his way to Troy (Book 19).}}",
+  "loc": "Certain. The cave of Eileithyia near Amnisos was a shrine for thousands of years."
+ },
+ "phaistos": {
+  "name": "Phaestus",
+  "text": "{{3|Nestor tells how a storm off Cape Malea split the fleet of Menelaus. Most of the ships were driven to Crete and wrecked on the rocks near Phaestus, by a smooth cliff at the edge of the land of Gortyn (Book 3).}}",
+  "loc": "Certain. The Minoan palace of Phaestus; its harbour was at Kommos."
+ },
+ "phthia": {
+  "name": "Phthia",
+  "alts": [
+   "The valley of the Spercheius"
+  ],
+  "heroes": [
+   {
+    "name": "Neoptolemus",
+    "role": "son of Achilles{{3|; brought the Myrmidons home safely}}"
+   },
+   {
+    "name": "Peleus",
+    "role": "the old father of Achilles"
+   }
+  ],
+  "text": "The land of the Myrmidons. {{3|Neoptolemus, the son of Achilles, led them home safely (Book 3).}} {{4|Menelaus sends his daughter Hermione here to marry him (Book 4).}} {{11|Among the dead, Achilles asks whether his old father Peleus still rules in Phthia (Book 11).}}",
+  "loc": "Disputed. The marker is at Pharsalus. Another view puts Phthia in the valley of the Spercheius."
+ },
+ "methone": {
+  "name": "Methone (Magnesia)",
+  "note": "the land of Philoctetes",
+  "heroes": [
+   {
+    "name": "Philoctetes",
+    "role": "son of Poeas, the best archer at Troy"
+   }
+  ],
+  "text": "{{3|Nestor names Philoctetes among those who came home safely (Book 3).}} {{8|Odysseus says that at Troy only Philoctetes was a better archer than he (Book 8).}}",
+  "loc": "Approximate. In the Iliad Philoctetes leads men from Methone, Thaumacia, Meliboea and Olizon, on the coast of Magnesia."
+ },
+ "opous": {
+  "name": "Locris (Opus)",
+  "heroes": [
+   {
+    "name": "Ajax son of Oileus",
+    "role": "leader of the Locrians{{4|; drowned at the Gyraean Rocks}}"
+   }
+  ],
+  "text": "The home of the lesser Ajax. {{4|He did not come home. Poseidon wrecked his ship, and when Ajax boasted that he had escaped the sea in spite of the gods, the god drowned him (Book 4).}}",
+  "loc": "Approximate. The marker is at Opus, the chief town of the Locrians."
+ },
+ "thebes": {
+  "name": "Thebes",
+  "heroes": [
+   {
+    "name": "Tiresias",
+    "role": "the blind seer of Thebes"
+   }
+  ],
+  "text": "“Seven-gated Thebes”. {{10|Circe sends Odysseus to question the shade of the Theban seer Tiresias (Book 10).}} {{11|Among the dead he also sees Antiope, whose sons Amphion and Zethus built the walls of Thebes, and Epicaste, the mother and wife of Oedipus (Book 11).}}",
+  "loc": "Certain."
+ },
+ "athens": {
+  "name": "Athens",
+  "text": "Cape Sunium is called “the headland of Athens”. {{7|When Athena leaves Scheria she goes to Marathon and to Athens, into “the strong house of Erechtheus” (Book 7).}} {{11|Theseus was taking Ariadne from Crete to Athens when Artemis killed her on the island Dia (Book 11).}}",
+  "loc": "Certain."
+ },
+ "elis": {
+  "name": "Elis",
+  "note": "land of the Epeians",
+  "text": "The horse-pasturing land of the Epeians, across the water from Ithaca. Men of Ithaca keep mares there (Book 4). {{15|Telemachus sails past it on his way home (Book 15).}}",
+  "loc": "Approximate. The marker is at the later city of Elis."
+ },
+ "thesprotia": {
+  "name": "Thesprotia",
+  "heroes": [
+   {
+    "name": "Pheidon",
+    "role": "king of the Thesprotians{{14| in the beggar’s tales}}"
+   }
+  ],
+  "text": "The mainland north of Ithaca. Its people are allies of the Ithacans. {{14|In his false tales the beggar says that King Pheidon of the Thesprotians took him in, and that Odysseus had just been there, on his way to the oracle at Dodona (Books 14 and 19).}} {{16|The father of Antinous once raided the Thesprotians with Taphian pirates, and Odysseus saved him from the anger of the people (Book 16).}} Ephyra, where Odysseus once went for arrow poison (Book 1), may be here too.",
+  "loc": "Approximate. It is a region, not a town. The marker is in the middle of historical Thesprotia."
+ },
+ "dodona": {
+  "name": "Dodona",
+  "text": "The oracle of Zeus, who speaks from a tall oak. {{14|In the beggar’s tales Odysseus has gone to Dodona to ask whether he should come home openly or in secret (Books 14 and 19).}}",
+  "loc": "Certain. The sanctuary of Zeus at Dodona lies in a valley below Mount Tomaros."
+ },
+ "taphos": {
+  "name": "Taphos",
+  "note": "Meganisi?",
+  "heroes": [
+   {
+    "name": "Mentes",
+    "role": "king of the Taphians; Athena takes his shape in Book 1"
+   }
+  ],
+  "text": "The Taphians are sailors, traders and pirates. Athena first comes to Telemachus as their king Mentes, who says he is on his way to trade iron for copper. {{15|Taphian raiders once carried off the Phoenician woman who later stole the child Eumaeus (Book 15).}}",
+  "loc": "Approximate. Ancient writers put Taphos among the islands between Lefkada and the mainland. It is usually taken to be Meganisi."
+ },
+ "temese": {
+  "name": "Temesa",
+  "alts": [
+   "Tamassos on Cyprus"
+  ],
+  "text": "Mentes says that he is sailing “to Temesa for copper”, with a cargo of iron (Book 1).",
+  "loc": "Disputed already in antiquity. Strabo took it for Temesa in southern Italy, which had old copper mines (the marker). Others read it as Tamassos on Cyprus, the island of copper."
+ },
+ "neriton": {
+  "name": "Mount Neriton",
+  "note": "modern Niritos, 806 m",
+  "text": "“Neriton with its quivering leaves”, the mountain that marks Ithaca from far out at sea (Book 9). {{13|Athena points to it when she shows Odysseus that he is home (Book 13).}}",
+  "loc": "Approximate. Today the highest mountain of the island, above Anogi, bears the name. Homer names a second mountain, Neion, which has not been identified."
+ },
+ "asteris": {
+  "name": "Asteris",
+  "note": "Daskalio",
+  "alts": [
+   "Arkoudi – Dörpfeld’s theory"
+  ],
+  "text": "A small rocky island in the strait between Ithaca and Same, with a harbour on either side. {{4|The suitors wait here in ambush for Telemachus (Book 4).}}",
+  "loc": "Disputed. The only islet in the strait is Daskalio. But it is a low reef about 150 m long, with no harbour at all. Those who put Homer’s Ithaca on Lefkada point to the island of Arkoudi instead."
+ },
+ "olympus": {
+  "name": "Olympus",
+  "note": "2917 m",
+  "heroes": [
+   {
+    "name": "Zeus and the gods",
+    "role": "live on the summit"
+   }
+  ],
+  "text": "The home of the gods. No wind shakes it, and no rain or snow falls on it (Book 6). The poem opens with a council of the gods here. {{5|A second council sends Hermes to Calypso (Book 5).}}",
+  "loc": "Certain."
+ },
+ "ogygia": {
+  "name": "Ogygia",
+  "note": "Gozo? · island of Calypso",
+  "alts": [
+   "Gavdos – another reading of Callimachus",
+   "By the Strait of Gibraltar – Bérard",
+   "Off Cape Lacinium – an ancient sailing guide"
+  ],
+  "heroes": [
+   {
+    "name": "Calypso",
+    "role": "nymph, daughter of Atlas"
+   }
+  ],
+  "text": "The island of the nymph Calypso, far from gods and men. Odysseus has been here since his last ship was lost. {{5|She lives in a cave among alders, poplars and cypresses, with four springs and meadows of violets and parsley (Book 5).}} {{5|From here he sails east on a raft for seventeen days, keeping the Bear on his left.}}",
+  "loc": "Unknown. Homer gives only the sailing time and the direction. The poet Callimachus, in the third century BC, named an island Gaudos as Calypso’s; on Gozo, off Malta, a cave above Ramla Bay is shown as hers (the marker). Other guesses run from Gavdos, south of Crete, to the Strait of Gibraltar. Strabo and Plutarch put Ogygia out in the Atlantic."
+ },
+ "scheria": {
+  "name": "Scheria",
+  "note": "Corfu? · land of the Phaeacians",
+  "alts": [
+   "Palaiokastritsa – a modern theory"
+  ],
+  "heroes": [
+   {
+    "name": "Alcinous",
+    "role": "king of the Phaeacians"
+   },
+   {
+    "name": "Arete",
+    "role": "the queen"
+   },
+   {
+    "name": "Nausicaa",
+    "role": "their daughter"
+   },
+   {
+    "name": "Laodamas",
+    "role": "their son"
+   },
+   {
+    "name": "Demodocus",
+    "role": "the blind bard"
+   }
+  ],
+  "text": "The land of the Phaeacians, seafarers who live apart, “at the far end, in the surging sea”. {{6|Their city has a harbour on either side, a wall, an assembly place by the temple of Poseidon, and the palace and garden of Alcinous (Books 6 and 7).}} {{13|From here a Phaeacian ship carries Odysseus to Ithaca in a single night (Book 13).}}",
+  "loc": "Disputed. From the time of Thucydides the Greeks took Scheria for Corcyra (Corfu), and the Corcyraeans were proud of it. The marker is at the ancient city, which lay between two harbours, as Homer’s city does. Many scholars think that Scheria is a land of fairy tale and should not be looked for on a map."
+ },
+ "ismaros": {
+  "name": "Ismarus",
+  "note": "town of the Cicones · near Maroneia",
+  "heroes": [
+   {
+    "name": "Maron",
+    "role": "priest of Apollo; gives Odysseus the strong wine"
+   }
+  ],
+  "text": "The first stop after Troy. Odysseus sacks the town of the Cicones. His men stay to feast on the shore, the Cicones come back in force, and six men from each ship are killed. Maron, a priest of Apollo whom Odysseus spared, gives him twelve jars of a dark, sweet wine.",
+  "loc": "Approximate. The Cicones are a real people of the Thracian coast: in the Iliad they fight for Troy. A Mount Ismaros stood near Maroneia, a town famous for its wine. This is the last stop on Odysseus’ way that can be put on a map with some confidence."
+ },
+ "lotus": {
+  "name": "Land of the Lotus-eaters",
+  "note": "Djerba? · tradition",
+  "text": "Nine days of storm from Cape Malea bring the ships here. The Lotus-eaters do the scouts no harm. They give them the lotus to eat, a fruit as sweet as honey, and whoever tastes it forgets his home and wants only to stay. Odysseus drags the men back to the ships and ties them under the benches.",
+  "loc": "Tradition, not Homer. Herodotus knows Lotus-eaters on the coast of Libya. From the time of Polybius and Strabo the island of Meninx (Djerba) was shown as their land. Homer gives nothing but nine days of bad winds."
+ },
+ "cyclopes": {
+  "name": "Land of the Cyclopes",
+  "note": "below Etna? · tradition",
+  "alts": [
+   "Bay of Naples – Bérard",
+   "Western Sicily – Butler, Bradford"
+  ],
+  "heroes": [
+   {
+    "name": "Polyphemus",
+    "role": "son of Poseidon"
+   }
+  ],
+  "text": "The Cyclopes neither plough nor sail. They live apart in caves, with no laws and no assemblies. Odysseus goes with twelve men into the cave of Polyphemus, who eats six of them. They make him drunk on the wine of Maron, blind his eye with a heated stake, and escape under the bellies of his sheep. Odysseus has told him that his name is “Nobody”. From the ship he shouts his real name, and Polyphemus calls down the curse of his father Poseidon.",
+  "loc": "Tradition, not Homer. From the fifth century BC the Greeks put the Cyclopes in Sicily, near Etna: Thucydides names them among the island’s first inhabitants, and Euripides sets his play Cyclops there. The rocks in the sea at Aci Trezza are still shown as the ones Polyphemus threw."
+ },
+ "aeolia": {
+  "name": "Aeolia",
+  "note": "Lipari? · island of Aeolus",
+  "alts": [
+   "Ustica – a modern theory"
+  ],
+  "heroes": [
+   {
+    "name": "Aeolus",
+    "role": "keeper of the winds"
+   }
+  ],
+  "text": "A floating island with a wall of bronze and sheer cliffs. Aeolus lives there with his six sons and six daughters, whom he has married to each other. He entertains Odysseus for a month and gives him a bag of ox-hide with the winds shut in, all but the west wind that is to carry him home. On the tenth day Ithaca is in sight. Odysseus falls asleep, the men open the bag, and the winds blow them all the way back. Aeolus drives them off as men hated by the gods.",
+  "loc": "Tradition, not Homer. By the fifth century BC the volcanic islands north of Sicily were called “the islands of Aeolus”; Strabo names Strongyle (Stromboli) as his home. The marker is on Lipari, the main island."
+ },
+ "telepylos": {
+  "name": "Telepylus",
+  "note": "Formiae? · town of the Laestrygonians",
+  "alts": [
+   "Leontini in Sicily – the older Greek tradition",
+   "Strait of Bonifacio – a modern theory"
+  ],
+  "heroes": [
+   {
+    "name": "Antiphates",
+    "role": "king of the Laestrygonians"
+   }
+  ],
+  "text": "A land where the paths of night and day lie close together: a herdsman driving his flock in greets the one driving his out. The harbour is ringed by sheer cliffs and has a narrow mouth. Eleven ships moor inside; Odysseus ties his own outside. The Laestrygonians are giants and eat men. They smash the ships with rocks from the cliffs and spear the men like fish. Only the ship of Odysseus gets away.",
+  "loc": "Tradition, not Homer, and a divided one. The older Greek writers put the Laestrygonians in Sicily, on the plain of Leontini. The Romans put them at Formiae on the coast of Latium, close to Circe’s cape (the marker). The short nights of Homer’s description have made others look far to the north."
+ },
+ "aeaea": {
+  "name": "Aeaea",
+  "note": "Monte Circeo? · island of Circe",
+  "heroes": [
+   {
+    "name": "Circe",
+    "role": "goddess, daughter of Helios"
+   },
+   {
+    "name": "Eurylochus",
+    "role": "leads the scouts; the only one who does not go in"
+   },
+   {
+    "name": "Elpenor",
+    "role": "the youngest of the crew"
+   }
+  ],
+  "text": "The island of the goddess Circe. With a drugged drink and a touch of her wand she turns half of the crew into pigs. Hermes gives Odysseus the herb moly, which protects him; she swears to do him no harm and turns the men back. They stay a year. When they ask to leave, she tells Odysseus that he must first go to the house of Hades. {{12|When he comes back she tells him the way home and its dangers (Book 12).}}",
+  "loc": "Tradition, not Homer. Homer puts Aeaea where “Dawn has her house and her dancing floors, and the Sun his risings” (Book 12): in the east. Yet already Hesiod’s Theogony makes the sons of Circe rule in Italy, and the Romans showed her home on Monte Circeo, a mountain cape that looks like an island from the sea."
+ },
+ "hades": {
+  "name": "Entrance to Hades",
+  "note": "Lake Avernus? · tradition",
+  "alts": [
+   "The Acheron in Thesprotia",
+   "The Cimmerian Bosporus"
+  ],
+  "heroes": [
+   {
+    "name": "Tiresias",
+    "role": "the seer{{11|; foretells the way home}}"
+   },
+   {
+    "name": "Anticleia",
+    "role": "{{11|mother of Odysseus}}"
+   },
+   {
+    "name": "Elpenor",
+    "role": "{{11|asks for a burial}}"
+   },
+   {
+    "name": "Agamemnon, Achilles, Ajax",
+    "role": "{{11|comrades from Troy}}"
+   }
+  ],
+  "text": "A day’s sail from Aeaea with the north wind, across the stream of Ocean, lies the land of the Cimmerians, who never see the sun. There, by a grove of Persephone, where the rivers of the dead meet, Odysseus must dig a trench and pour blood into it. {{11|The shades come to drink and to speak: Elpenor, the seer Tiresias, his own mother, the women of old, and his comrades from Troy (Book 11).}} {{24|In the last book Hermes leads the souls of the dead down the same way (Book 24).}}",
+  "loc": "Tradition, not Homer. Homer puts the entrance beyond Ocean, at the edge of the world. Greeks in Italy showed it at Lake Avernus, a crater lake near Cumae (the marker). Others pointed to Thesprotia, where a real river Acheron flows and an oracle of the dead stood: Pausanias thought that Homer took the names of the rivers of Hades from there. The Cimmerians of history lived north of the Black Sea."
+ },
+ "sirens": {
+  "name": "The Sirens",
+  "note": "Li Galli? · tradition",
+  "text": "Two Sirens sit in a meadow among the bones of men and sing to every ship that passes. Whoever stops to listen never comes home. Odysseus stops the ears of his men with wax and has himself bound to the mast, so that he alone hears the song. They promise him knowledge of all that happened at Troy and all that happens on earth.",
+  "loc": "Tradition, not Homer. Strabo knows two candidates: three rocky islets called the Sirenussae, off the Sorrento peninsula (the marker), where a temple of the Sirens stood on the cape, and Cape Pelorus in Sicily."
+ },
+ "planctae": {
+  "name": "The Wandering Rocks",
+  "note": "the Aeolian islands? · tradition",
+  "text": "Circe names two ways onward from the Sirens. One leads past the Wandering Rocks, where not even the doves of Zeus get through, and where waves and blasts of fire carry off the planks of ships and the bodies of men. Only one ship ever passed: the Argo, on her way back from Aeetes, because Hera loved Jason. Odysseus takes the other way.",
+  "loc": "Tradition, not Homer. Because Homer speaks of fire and smoke, later writers looked for the rocks among the volcanic islands north of Sicily. The mention of the Argo shows that the rocks come from an older story, about the voyage of Jason."
+ },
+ "scylla": {
+  "name": "Scylla",
+  "note": "Scilla in Calabria? · tradition",
+  "text": "A cliff so smooth that no man could climb it, with a cave halfway up. In it lives Scylla. She has twelve feet and six long necks, each with a head and three rows of teeth. Circe tells Odysseus that nothing can be done against her: he must sail close to her cliff and lose six men, rather than the whole ship in Charybdis. He arms himself all the same. She takes six men, and they call his name as she lifts them.",
+  "loc": "Tradition, not Homer. From the fifth century BC the strait between Italy and Sicily was taken for the strait of Scylla and Charybdis: Thucydides says so. The rock and the town of Scilla still carry the name."
+ },
+ "charybdis": {
+  "name": "Charybdis",
+  "note": "Strait of Messina? · tradition",
+  "text": "A bowshot from Scylla, under a low rock with a great fig tree, Charybdis sucks down the sea three times a day and spouts it up again. After the shipwreck Odysseus is carried back here alone, on the keel of his ship. He hangs from the fig tree like a bat until she throws the timbers up again.",
+  "loc": "Tradition, not Homer. The Strait of Messina has real whirlpools, made by strong tidal currents that turn about every six hours. Ancient sailors feared them. They are far smaller than Homer’s."
+ },
+ "thrinacia": {
+  "name": "Thrinacia",
+  "note": "Sicily? · island of the Sun",
+  "alts": [
+   "Mylae (Milazzo) – where later writers showed the cattle"
+  ],
+  "heroes": [
+   {
+    "name": "Lampetie and Phaethusa",
+    "role": "{{12|daughters of Helios, who herd his cattle}}"
+   }
+  ],
+  "text": "The island where the Sun keeps seven herds of cattle and seven flocks of sheep, fifty in each, which never breed and never die. Tiresias warns Odysseus not to touch them. {{12|Circe repeats the warning. Contrary winds hold the ship here for a month. While Odysseus sleeps, the starving men kill the best of the cattle; the hides crawl and the meat lows on the spits. When they sail, Zeus breaks the ship with a thunderbolt, and all but Odysseus drown (Book 12).}}",
+  "loc": "Tradition, not Homer. The name was read as Trinacria, “the three-cornered island”, an old name of Sicily. The marker is on the east coast, south of the strait, because a south wind carries Odysseus from Thrinacia back to Charybdis in one night. Homer names Sicania and the Sicels separately, as part of the real world."
+ },
+ "troy": {
+  "name": "Troy (Ilion)",
+  "note": "modern Hisarlık",
+  "text": "The war is over: Troy fell ten years before the poem begins. It lives on in what people tell. {{3|Nestor remembers the dead (Book 3).}} {{4|Helen and Menelaus tell of Odysseus inside the city and inside the wooden horse (Book 4).}} {{8|Demodocus sings how the horse was brought in and the city sacked, and Odysseus weeps (Book 8).}}",
+  "loc": "Certain. Hisarlık was excavated by Schliemann, Dörpfeld, Blegen and Korfmann. Our sister map, the Iliad Map, shows the city and its plain in detail."
+ },
+ "tenedos": {
+  "name": "Tenedos",
+  "note": "modern Bozcaada",
+  "text": "{{3|Nestor tells that the fleet sacrificed here on the way home, and that a new quarrel sent Odysseus and others back to Agamemnon at Troy (Book 3).}}",
+  "loc": "Certain."
+ },
+ "lesbos": {
+  "name": "Lesbos",
+  "text": "{{3|At Lesbos Menelaus caught up with Nestor and Diomedes while they were choosing a course across the sea (Book 3).}} {{4|Odysseus once wrestled Philomeleides here and threw him (Book 4).}}",
+  "loc": "Certain."
+ },
+ "lemnos": {
+  "name": "Lemnos",
+  "text": "{{8|In the song of Demodocus, Hephaestus pretends to leave for Lemnos, the land he loves best, so as to catch Ares and Aphrodite (Book 8).}}",
+  "loc": "Certain."
+ },
+ "geraistos": {
+  "name": "Geraestus",
+  "note": "southern tip of Euboea",
+  "text": "{{3|Nestor and Diomedes cut straight across the open sea from Lesbos and landed here at night. They offered many bulls to Poseidon for the crossing (Book 3).}}",
+  "loc": "Certain. The harbour and the sanctuary of Poseidon at Geraestus were known throughout antiquity."
+ },
+ "sounion": {
+  "name": "Sunium",
+  "text": "“Holy Sunium, the headland of Athens”. {{3|Here Apollo killed Phrontis, the helmsman of Menelaus, at the steering oar. Menelaus stopped to bury him and fell behind the others (Book 3).}}",
+  "loc": "Certain."
+ },
+ "malea": {
+  "name": "Cape Malea",
+  "text": "The south-eastern cape of the Peloponnese, where the wind turns ships away from home. {{3|A storm scattered the fleet of Menelaus here (Book 3).}} {{4|Another caught Agamemnon (Book 4).}} {{9|Here the north wind drove Odysseus off his course and past Cythera, out of the known world (Book 9).}}",
+  "loc": "Certain. Ancient sailors had a saying: “When you round Malea, forget your home.”"
+ },
+ "kythera": {
+  "name": "Cythera",
+  "text": "{{9|The last named place that Odysseus passes before nine days of storm (Book 9).}}",
+  "loc": "Certain."
+ },
+ "gyrai": {
+  "name": "Gyraean Rocks",
+  "alts": [
+   "Cape Caphereus on Euboea"
+  ],
+  "text": "{{4|Proteus tells how Ajax son of Oileus was wrecked here. Poseidon let him reach the rocks. Ajax boasted that he had escaped the sea in spite of the gods, and Poseidon split the rock and drowned him (Book 4).}}",
+  "loc": "Disputed. Ancient commentators put the rocks near Myconos and Tenos (the marker) or at Cape Caphereus, the south-eastern point of Euboea."
+ },
+ "pytho": {
+  "name": "Pytho (Delphi)",
+  "text": "{{8|Demodocus sings that Agamemnon crossed the stone threshold at Pytho to consult Apollo before the war (Book 8).}} {{11|Tityus is punished among the dead for attacking Leto on her way to Pytho (Book 11).}}",
+  "loc": "Certain."
+ },
+ "delos": {
+  "name": "Delos",
+  "text": "{{6|Odysseus tells Nausicaa that he has seen only one thing as lovely as she is: the young palm tree by the altar of Apollo on Delos (Book 6).}}",
+  "loc": "Certain."
+ },
+ "syrie": {
+  "name": "Syrie",
+  "note": "Syros?",
+  "alts": [
+   "Syracuse – a minority view"
+  ],
+  "heroes": [
+   {
+    "name": "Ctesius",
+    "role": "{{15|king of both towns of the island, father of Eumaeus}}"
+   }
+  ],
+  "text": "{{15|The island where Eumaeus was born: not large, but rich in cattle, sheep, wine and wheat, with no hunger and no sickness. Phoenician traders came, and his Sidonian nurse carried him off to their ship (Book 15).}}",
+  "loc": "Disputed. Homer says that it lies “above Ortygia, where the sun turns”. Most take Ortygia for Delos and Syrie for Syros. Others think of Syracuse, whose old town stands on an islet called Ortygia."
+ },
+ "egypt": {
+  "name": "Egypt",
+  "note": "the river Aigyptos · Thonis",
+  "heroes": [
+   {
+    "name": "Thon and Polydamna",
+    "role": "Egyptians{{4|; she gave Helen the drug that takes away grief}}"
+   }
+  ],
+  "text": "For Homer Aigyptos is both the land and its river, the Nile. {{4|Menelaus was held back here on his way home and came away rich (Book 4).}} {{14|In his false tales the beggar says that he led a raid on Egypt: his men plundered the fields, the Egyptians cut them down, and the king spared him (Books 14 and 17).}}",
+  "loc": "Approximate. The marker is at Thonis-Heracleion, the old port at the Canopic mouth of the Nile. Greek tradition linked it with Homer’s Thon. Its ruins now lie under the sea, about 6 km off the coast."
+ },
+ "pharos": {
+  "name": "Pharos",
+  "heroes": [
+   {
+    "name": "Proteus",
+    "role": "{{4|the Old Man of the Sea}}"
+   },
+   {
+    "name": "Eidothea",
+    "role": "{{4|his daughter}}"
+   }
+  ],
+  "text": "{{4|An island “a day’s sail” off Egypt, with a good harbour. Menelaus was becalmed here for twenty days. Eidothea took pity on him. He and three men hid under sealskins, seized her father Proteus and held him through all his changes of shape, until he told them how to get home and what had become of the other heroes (Book 4).}}",
+  "loc": "The island is certain: later the lighthouse of Alexandria stood on it. But it lies less than two kilometres from the shore, not a day’s sail. Either the poet knew Egypt only by hearsay, or he measured from the mouth of the river."
+ },
+ "libya": {
+  "name": "Libya",
+  "text": "{{4|Menelaus says that in Libya the lambs are born with horns and the ewes bear three times a year (Book 4).}} {{14|In the beggar’s tale a Phoenician takes him aboard a ship bound for Libya, meaning to sell him there (Book 14).}}",
+  "loc": "Approximate. For the Greeks Libya was Africa west of Egypt. The marker is at Cyrene, where they later settled."
+ },
+ "sidon": {
+  "name": "Sidon (Phoenicia)",
+  "heroes": [
+   {
+    "name": "Phaedimus",
+    "role": "king of the Sidonians{{4|; gave Menelaus a silver mixing bowl}}"
+   }
+  ],
+  "text": "The Phoenicians are the great sailors and traders of the poem, and not to be trusted. {{4|Menelaus owns a silver bowl with a rim of gold, a gift of the king of Sidon (Book 4).}} {{15|A Sidonian slave woman and a crew of Phoenician traders stole the child Eumaeus (Book 15).}}",
+  "loc": "Certain."
+ },
+ "cyprus": {
+  "name": "Cyprus (Paphos)",
+  "text": "{{4|The first land that Menelaus names in his wanderings (Book 4).}} {{8|In the song of Demodocus Aphrodite goes to Paphos, where she has a precinct and an altar (Book 8).}} {{17|In another false tale the beggar says that he was handed over to Dmetor, who ruled Cyprus (Book 17).}}",
+  "loc": "Certain. The marker is at Old Paphos, where a sanctuary of Aphrodite stood from about 1200 BC."
+ },
+ "sikania": {
+  "name": "Sicania",
+  "note": "land of the Sicels",
+  "text": "Homer knows the Sicels as real people across the sea. {{20|The suitors joke about selling strangers to them (Book 20).}} {{24|An old Sicel woman looks after Laertes, and Odysseus tells his father that a storm drove him from Sicania (Book 24).}}",
+  "loc": "Approximate. The Sicanians and the Sicels were peoples of Sicily. The poem never connects them with Thrinacia, the island of the Sun."
+ },
+ "okeanos": {
+  "name": "Ocean",
+  "note": "the river around the world",
+  "text": "For Homer Ocean is not a sea but a river that flows around the edge of the earth. The sun rises from it and sinks into it. {{4|The Elysian plain lies beside it (Book 4).}} {{10|Beyond it are the shore of Persephone and the way to the house of Hades (Books 10 and 11).}}",
+  "loc": "Not a place on the map. The label stands in the Atlantic, at the edge of this sheet."
+ },
+ "strait": {
+  "name": "Strait of Ithaca",
+  "text": "The channel between Ithaca and Same, two to five kilometres wide. {{4|The suitors watch it from Asteris, to kill Telemachus on his way back (Book 4).}}",
+  "loc": "Certain."
+ }
+}

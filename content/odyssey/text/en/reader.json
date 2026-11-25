@@ -1,0 +1,399 @@
+{
+ "names": {
+  "athena": "Athena",
+  "hermes": "Hermes",
+  "ino": "Ino Leucothea",
+  "poseidon": "Poseidon",
+  "helios": "Helios",
+  "zeus": "Zeus",
+  "calypso": "Calypso",
+  "circe": "Circe",
+  "aeolus": "Aeolus",
+  "proteus": "Proteus",
+  "hephaestus": "Hephaestus",
+  "apollo": "Apollo",
+  "persephone": "Persephone",
+  "arceisius": "Arceisius",
+  "laertes": "Laertes",
+  "anticleia": "Anticleia",
+  "odysseus": "Odysseus",
+  "penelope": "Penelope",
+  "telemachus": "Telemachus",
+  "ctimene": "Ctimene",
+  "autolycus": "Autolycus",
+  "icarius": "Icarius",
+  "iphthime": "Iphthime",
+  "eumelus": "Eumelus",
+  "neleus": "Neleus",
+  "chloris": "Chloris",
+  "nestor": "Nestor",
+  "eurydice": "Eurydice",
+  "antilochus": "Antilochus",
+  "thrasymedes": "Thrasymedes",
+  "peisistratus": "Peisistratus",
+  "echephron": "Echephron",
+  "stratius": "Stratius",
+  "perseus": "Perseus",
+  "aretus": "Aretus",
+  "polycaste": "Polycaste",
+  "atreus": "Atreus",
+  "agamemnon": "Agamemnon",
+  "clytemnestra": "Clytemnestra",
+  "orestes": "Orestes",
+  "menelaus": "Menelaus",
+  "helen": "Helen",
+  "hermione": "Hermione",
+  "megapenthes": "Megapenthes",
+  "periboea": "Periboea",
+  "nausithous": "Nausithous",
+  "rhexenor": "Rhexenor",
+  "arete": "Arete",
+  "alcinous": "Alcinous",
+  "laodamas": "Laodamas",
+  "halius": "Halius",
+  "clytoneus": "Clytoneus",
+  "nausicaa": "Nausicaa",
+  "aeetes": "Aeetes",
+  "lampetie": "Lampetie",
+  "phaethusa": "Phaethusa",
+  "perse": "Perse",
+  "polyphemus": "Polyphemus",
+  "thoosa": "Thoosa",
+  "pelias": "Pelias",
+  "melampus": "Melampus",
+  "antiphates": "Antiphates",
+  "oecles": "Oecles",
+  "amphiaraus": "Amphiaraus",
+  "alcmaeon": "Alcmaeon",
+  "amphilochus": "Amphilochus",
+  "mantius": "Mantius",
+  "polypheides": "Polypheides",
+  "theoclymenus": "Theoclymenus",
+  "cleitus": "Cleitus",
+  "eurycleia": "Eurycleia",
+  "ops": "Ops",
+  "eumaeus": "Eumaeus",
+  "ctesius": "Ctesius",
+  "philoetius": "Philoetius",
+  "mentor": "Mentor",
+  "alcimus": "Alcimus",
+  "antinous": "Antinous",
+  "eupeithes": "Eupeithes",
+  "eurymachus": "Eurymachus",
+  "polybus": "Polybus",
+  "amphinomus": "Amphinomus",
+  "nisus": "Nisus",
+  "melanthius": "Melanthius",
+  "dolius": "Dolius",
+  "demodocus": "Demodocus",
+  "atlas": "Atlas",
+  "hippotas": "Hippotas",
+  "eurylochus": "Eurylochus",
+  "tiresias": "Tiresias"
+ },
+ "gods": {
+  "athena": "Daughter of Zeus. She guides Odysseus and Telemachus through the whole poem, nearly always in the shape of a mortal. {{13|Only on Ithaca does she show herself to Odysseus openly (Book 13).}}",
+  "hermes": "Messenger of Zeus. {{5|He carries to Calypso the order to let Odysseus go (Book 5).}} {{10|He gives Odysseus the herb moly against the drugs of Circe (Book 10).}} {{24|He leads the souls of the dead down to Hades (Book 24).}}",
+  "ino": "Once a mortal woman, now a sea goddess. {{5|She gives the drowning Odysseus her veil, and it keeps him afloat (Book 5).}}",
+  "poseidon": "God of the sea. He is angry with Odysseus for blinding his son, the Cyclops Polyphemus: Zeus says so already in Book 1. {{5|He wrecks the raft within sight of Scheria (Book 5).}} {{13|He turns the ship of the Phaeacians to stone (Book 13).}}",
+  "helios": "The Sun, who sees everything. The first lines of the poem already say that Odysseus’ men ate his cattle and died for it. {{12|It happens on Thrinacia: at his demand Zeus destroys their ship (Book 12).}}",
+  "zeus": "King of the gods. He decides that Odysseus shall come home, and sends Athena and Hermes to see to it. {{12|He also strikes Odysseus’ last ship with a thunderbolt (Book 12).}} {{24|In the end he tells Athena to make peace on Ithaca (Book 24).}}",
+  "calypso": "A nymph, daughter of Atlas. She holds Odysseus on her island Ogygia and wants him for her husband. {{5|When Zeus orders it, she helps him build a raft (Book 5).}} {{7|He has been with her for seven years (Book 7).}}",
+  "circe": "A goddess and sorceress, daughter of Helios, on the island Aeaea. {{10|She turns Odysseus’ men into pigs, and then keeps them all as her guests for a year (Book 10).}} {{12|She tells him how to pass the Sirens and Scylla (Book 12).}}",
+  "aeolus": "Keeper of the winds, a friend of the gods. {{10|He gives Odysseus a bag with the winds shut inside (Book 10).}}",
+  "proteus": "The Old Man of the Sea. He herds the seals of Poseidon and knows everything. {{4|Menelaus catches him on Pharos and makes him tell the way home (Book 4).}}",
+  "hephaestus": "The smith god. {{8|In a song of Demodocus he traps his wife Aphrodite with Ares in a net (Book 8).}}",
+  "apollo": "God of the bow. {{21|The contest of the bow falls on his feast day (Books 20 and 21).}}",
+  "persephone": "Queen of the dead. {{11|She sends the shades of the women to Odysseus and scatters them again (Book 11).}}"
+ },
+ "godsIntro": "The Odyssey has no two camps of gods, as the Iliad has. One goddess, Athena, guides the story. Poseidon and Helios are the two gods Odysseus has offended.",
+ "families": {
+  "odysseus": {
+   "name": "The house of Odysseus",
+   "note": "A line of only sons: Arceisius had only Laertes, Laertes only Odysseus, Odysseus only Telemachus (Book 16, lines 117–120). Odysseus’ sister Ctimene was married to a man of Same (Book 15, lines 363–367). His mother Anticleia is the daughter of Autolycus{{19|, who gave Odysseus his name (Book 19)}}."
+  },
+  "icarius": {
+   "name": "The family of Penelope",
+   "note": "Penelope is the daughter of Icarius. Her sister Iphthime is married to Eumelus of Pherae in Thessaly{{4|; Athena sends her likeness to Penelope in a dream (Book 4, lines 795–841)}}. Later tradition makes Icarius a brother of Tyndareus, so that Penelope and Helen are cousins. Homer does not say so."
+  },
+  "nestor": {
+   "name": "The line of Nestor",
+   "note": "Neleus came to Pylos and ruled there. Nestor’s sons are named in Book 3, lines 412–415. Antilochus fell at Troy. Polycaste is the youngest daughter{{3|; she bathes Telemachus (Book 3, lines 464–468)}}."
+  },
+  "atreus": {
+   "name": "The sons of Atreus",
+   "note": "Agamemnon led the war against Troy. On his return he was murdered by Aegisthus, the lover of his wife Clytemnestra, and his son Orestes avenged him: the poem says so from Book 1 on. Hermione is the only child of Menelaus and Helen. Megapenthes is his son by a slave woman (Book 4, lines 10–14)."
+  },
+  "phaeacians": {
+   "name": "The royal house of the Phaeacians",
+   "note": "Nausithous, a son of Poseidon, led the Phaeacians from Hypereia to Scheria. Arete is the daughter of his son Rhexenor, and so the niece of her husband Alcinous (Book 7, lines 56–68). Alcinous has five sons; three are named (Book 8, line 119)."
+  },
+  "helios": {
+   "name": "The children of the Sun",
+   "note": "Circe and Aeetes are children of Helios and Perse, a daughter of Ocean (Book 10, lines 135–139). {{12|Lampetie and Phaethusa, his daughters by Neaera, herd his cattle on Thrinacia (Book 12, lines 131–136).}}"
+  },
+  "poseidon": {
+   "name": "The sons of Poseidon",
+   "note": "The god who is angry with Odysseus is the father or forefather of several of the people he meets: the Cyclops Polyphemus (by the nymph Thoosa), the kings of the Phaeacians (through Nausithous) and Nestor (through Neleus, whom Tyro bore to the god: Book 11, lines 235–257)."
+  },
+  "melampus": {
+   "name": "The seers of the line of Melampus",
+   "note": "The poem gives this family tree when the seer Theoclymenus appears (Book 15, lines 225–256). Melampus came from Pylos to Argos. Amphiaraus died at Thebes. Dawn carried off Cleitus for his beauty."
+  }
+ },
+ "familiesIntro": "A name with a dot opens that person, or their home on the map.",
+ "days": {
+  "council": "The gods in council; Athena comes to Ithaca",
+  "assembly": "The assembly on Ithaca; Telemachus sails at night",
+  "pylos": "Telemachus at Pylos",
+  "ride": "The sacrifice; by chariot to Pherae",
+  "sparta": "Arrival in Sparta",
+  "proteus": "Menelaus tells of Egypt; on Ithaca the suitors plot",
+  "hermes": "Hermes goes to Calypso",
+  "raft": "Odysseus builds the raft",
+  "sailing": "Seventeen days at sea",
+  "storm": "The storm, two days adrift, ashore on Scheria",
+  "nausicaa": "Nausicaa; the house of Alcinous",
+  "tales": "Games on Scheria; the night of the tales",
+  "farewell": "Farewell to the Phaeacians; the night crossing",
+  "landing": "Odysseus wakes on Ithaca; the first night with Eumaeus",
+  "leave": "Telemachus leaves Sparta",
+  "voyage": "Telemachus sails from Pylos; evening at the farmstead",
+  "reunion": "Telemachus lands; father and son",
+  "beggar": "The beggar in the palace",
+  "bow": "The bow, the fight in the hall, the night",
+  "peace": "Laertes; the last fight and the peace"
+ },
+ "daysNote": "The action of the poem takes about forty-one days. The ten years of the wanderings are told in a single night, on the thirty-third day.",
+ "modern": {
+  "athens_m": "Athens (today)",
+  "thessaloniki": "Thessaloniki",
+  "patras": "Patras",
+  "kalamata": "Kalamata",
+  "heraklion": "Heraklion",
+  "corfu_town": "Corfu town",
+  "vathy": "Vathy",
+  "argostoli": "Argostoli",
+  "ioannina": "Ioannina",
+  "istanbul": "Istanbul",
+  "canakkale": "Çanakkale",
+  "izmir": "İzmir",
+  "antalya": "Antalya",
+  "naples": "Naples",
+  "rome": "Rome",
+  "palermo": "Palermo",
+  "catania": "Catania",
+  "messina": "Messina",
+  "syracuse": "Syracuse",
+  "taranto": "Taranto",
+  "valletta": "Valletta",
+  "tunis": "Tunis",
+  "tripoli": "Tripoli",
+  "benghazi": "Benghazi",
+  "alexandria": "Alexandria",
+  "cairo": "Cairo",
+  "beirut": "Beirut",
+  "nicosia": "Nicosia",
+  "sofia": "Sofia",
+  "tirana": "Tirana",
+  "gibraltar": "Gibraltar",
+  "algiers": "Algiers",
+  "barcelona": "Barcelona",
+  "marseille": "Marseille",
+  "greece": "Greece",
+  "turkey": "Türkiye",
+  "italy": "Italy",
+  "tunisia": "Tunisia",
+  "libya_m": "Libya (today)",
+  "egypt_m": "Egypt (today)",
+  "malta": "Malta",
+  "albania": "Albania",
+  "bulgaria": "Bulgaria",
+  "cyprus_m": "Cyprus",
+  "lebanon": "Lebanon",
+  "spain": "Spain",
+  "algeria": "Algeria",
+  "morocco": "Morocco",
+  "france": "France",
+  "north_macedonia": "North Macedonia",
+  "syria": "Syria"
+ },
+ "heroes": {
+  "odysseus": {
+   "about": "King of Ithaca, son of Laertes. He sailed for Troy twenty years ago and has not come home.",
+   "find": [
+    "Odysseus"
+   ]
+  },
+  "penelope": {
+   "about": "Wife of Odysseus, daughter of Icarius. She waits for him and holds off the suitors. {{2|For three years she tricked them with a shroud that she wove by day and undid by night (Book 2).}}",
+   "find": [
+    "Penelope"
+   ]
+  },
+  "telemachus": {
+   "about": "Son of Odysseus and Penelope. He was a baby when his father sailed; now he is about twenty.",
+   "find": [
+    "Telemachus"
+   ]
+  },
+  "laertes": {
+   "about": "Father of Odysseus. Old and grieving, he no longer comes to the town and lives on his farm.",
+   "find": [
+    "Laertes"
+   ]
+  },
+  "anticleia": {
+   "about": "Mother of Odysseus, daughter of Autolycus. Odysseus meets her shade among the dead: she died of longing for him (Book 11).",
+   "find": [
+    "Anticleia"
+   ]
+  },
+  "eurycleia": {
+   "about": "The old nurse of Odysseus and of Telemachus. Laertes bought her when she was young for the price of twenty oxen (Book 1).",
+   "find": [
+    "Eurycleia"
+   ]
+  },
+  "eumaeus": {
+   "about": "The swineherd of Odysseus, loyal to his absent master. {{15|He was born a king’s son on the island Syrie and was sold as a child (Book 15).}}",
+   "find": [
+    "Eumaeus"
+   ]
+  },
+  "philoetius": {
+   "about": "The cowherd who keeps Odysseus’ cattle. He is loyal to his master.",
+   "find": [
+    "Philoetius"
+   ]
+  },
+  "mentor": {
+   "about": "An old friend, to whom Odysseus entrusted his house when he sailed. Athena often takes his shape.",
+   "find": [
+    "Mentor"
+   ]
+  },
+  "antinous": {
+   "about": "Son of Eupeithes. The most violent of the suitors and their leader.",
+   "find": [
+    "Antinous"
+   ]
+  },
+  "eurymachus": {
+   "about": "Son of Polybus. The other leader of the suitors: smooth in speech and false.",
+   "find": [
+    "Eurymachus"
+   ]
+  },
+  "amphinomus": {
+   "about": "A suitor from Dulichium, son of Nisus. The most decent of them: Penelope likes the way he speaks.",
+   "find": [
+    "Amphinomus"
+   ]
+  },
+  "melanthius": {
+   "about": "The goatherd, son of Dolius. He sides with the suitors and insults his master’s guests.",
+   "find": [
+    "Melanthius"
+   ]
+  },
+  "nestor": {
+   "about": "The old king of Pylos. He fought at Troy and came home safely.",
+   "find": [
+    "Nestor"
+   ]
+  },
+  "peisistratus": {
+   "about": "The youngest son of Nestor, of an age with Telemachus. He goes with him to Sparta.",
+   "find": [
+    "Peisistratus"
+   ]
+  },
+  "menelaus": {
+   "about": "King of Lacedaemon, brother of Agamemnon. {{4|He came home only in the eighth year after Troy, by way of Egypt (Book 4).}}",
+   "find": [
+    "Menelaus"
+   ]
+  },
+  "helen": {
+   "about": "Wife of Menelaus. The war was fought over her; now she is at home in Sparta again.",
+   "find": [
+    "Helen"
+   ]
+  },
+  "agamemnon": {
+   "about": "King of Mycenae, leader of the war against Troy. He came home and was murdered by Aegisthus and his own wife Clytemnestra. The poem sets his fate beside that of Odysseus.",
+   "find": [
+    "Agamemnon"
+   ]
+  },
+  "alcinous": {
+   "about": "King of the Phaeacians on Scheria, grandson of Poseidon.",
+   "find": [
+    "Alcinous"
+   ]
+  },
+  "arete": {
+   "about": "Queen of the Phaeacians, honoured by her people like a goddess. Whoever wins her favour will get home.",
+   "find": [
+    "Arete"
+   ]
+  },
+  "nausicaa": {
+   "about": "Daughter of Alcinous and Arete. She finds the shipwrecked Odysseus by the river.",
+   "find": [
+    "Nausicaa"
+   ]
+  },
+  "demodocus": {
+   "about": "The blind bard of the Phaeacians. The Muse took his sight and gave him song.",
+   "find": [
+    "Demodocus"
+   ]
+  },
+  "theoclymenus": {
+   "about": "A seer of the line of Melampus, in flight from Argos after killing a man. Telemachus takes him aboard at Pylos.",
+   "find": [
+    "Theoclymenus"
+   ]
+  },
+  "calypso": {
+   "about": "A nymph, daughter of Atlas. She holds Odysseus on her island Ogygia.",
+   "find": [
+    "Calypso"
+   ]
+  },
+  "polyphemus": {
+   "about": "A Cyclops, son of Poseidon: a giant who herds sheep and lives alone in a cave.",
+   "find": [
+    "Polyphemus",
+    "Cyclops",
+    "the Cyclops"
+   ]
+  },
+  "aeolus": {
+   "about": "Son of Hippotas, keeper of the winds. He lives on a floating island with his six sons and six daughters.",
+   "find": [
+    "Aeolus"
+   ]
+  },
+  "circe": {
+   "about": "A goddess with a human voice, daughter of Helios. She lives on Aeaea and knows drugs and spells.",
+   "find": [
+    "Circe"
+   ]
+  },
+  "eurylochus": {
+   "about": "A kinsman of Odysseus and second in command on his ship. He often speaks against him.",
+   "find": [
+    "Eurylochus"
+   ]
+  },
+  "tiresias": {
+   "about": "The blind seer of Thebes. Alone among the dead he keeps his mind.",
+   "find": [
+    "Tiresias"
+   ]
+  }
+ }
+}
